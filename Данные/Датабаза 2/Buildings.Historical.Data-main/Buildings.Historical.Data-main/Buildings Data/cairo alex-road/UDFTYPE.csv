@@ -1,0 +1,5 @@
+,udf_type_id,table_name,udf_type_name,udf_type_label,logical_data_type,super_flag,indicator_expression,summary_indicator_expression
+0,42,RSRC,user_text4,user_text4,FT_TEXT,N,,
+1,136,PROJECT,user_field_136,QA/QC,FT_STATICTYPE,N,,
+2,137,PROJECT,user_field_137,Safety,FT_STATICTYPE,N,,
+3,138,PROJECT,user_field_138,Change,FT_STATICTYPE,N,,

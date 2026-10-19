@@ -1,0 +1,2 @@
+,thresh_parm_id,seq_num,wbs_flag,task_flag,rsrc_flag,thresh_parm_type,thresh_parm_name,thresh_field_name,thresh_short_name
+0,6,11,Y,Y,N,TH_Ratio,CPI - Cost Performance Index (ratio),CPI,

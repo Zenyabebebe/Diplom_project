@@ -1,0 +1,5 @@
+,actv_code_type_id,actv_short_len,seq_num,actv_code_type,proj_id,wbs_id,actv_code_type_scope
+0,7268,2,0,zone number,764,,AS_Project
+1,7269,3,100,villa number,764,,AS_Project
+2,7270,2,200,Work Category,764,,AS_Project
+3,7271,2,300,concrete type,764,,AS_Project

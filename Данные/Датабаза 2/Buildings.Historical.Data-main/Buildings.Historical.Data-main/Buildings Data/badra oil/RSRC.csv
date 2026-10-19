@@ -1,0 +1,7 @@
+,rsrc_id,parent_rsrc_id,clndr_id,role_id,shift_id,ts_approve_user_id,user_id,pobs_id,guid,rsrc_seq_num,email_addr,employee_code,office_phone,other_phone,rsrc_name,rsrc_short_name,rsrc_title_name,def_qty_per_hr,cost_qty_type,ot_factor,active_flag,auto_compute_act_flag,def_cost_qty_link_flag,ot_flag,timesheet_flag,xfer_complete_day_cnt,xfer_notstart_day_cnt,curr_id,unit_id,rsrc_type,rsrc_notes,load_tasks_flag,level_flag,last_checksum
+0,2909,2904,794,,,,,,tJHvAZ2oDk2Nq0739sMKgQ,4,,,,,MEP  WORKER,BADRA-4,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,,RT_Labor,,,,
+1,2910,2904,794,,,,,,g79ChEOc7kaegzacul3U4g,5,,,,,CARPENTER,badra-5,1,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,,RT_Labor,,,,
+2,2911,2904,794,,,,,,HtELuZIhr0CEG03/hBw2RQ,6,,,,,STEEL LABOUR,BADRA-6,2,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,,RT_Labor,,,,
+3,2912,2904,794,,,,,,6IuD0ywsVUm+VCZVqjZZYg,7,,,,,Brickwork Labor,BADRA-7,3,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,,RT_Labor,,,,
+4,2914,2904,794,,,,,,cLvJcvse+0yXwdUS8tpNNQ,2,,,,,finishes worker,BADRA-0,4,1,QT_Hour,,Y,N,N,N,N,60,60,1,,RT_Labor,,,,
+5,2904,,794,,,,,,2bBqJU1yg0q5mUkNYoSR3A,21301,,,,,GAZPROM NEFT BADRA-RESOURCES,BADRA OIL,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,,RT_Equip,,,,

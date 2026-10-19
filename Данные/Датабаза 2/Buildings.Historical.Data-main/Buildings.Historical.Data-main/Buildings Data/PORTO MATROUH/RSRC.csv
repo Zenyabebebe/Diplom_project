@@ -1,0 +1,12 @@
+,rsrc_id,parent_rsrc_id,clndr_id,role_id,shift_id,ts_approve_user_id,user_id,pobs_id,guid,rsrc_seq_num,email_addr,employee_code,office_phone,other_phone,rsrc_name,rsrc_short_name,rsrc_title_name,def_qty_per_hr,cost_qty_type,ot_factor,active_flag,auto_compute_act_flag,def_cost_qty_link_flag,ot_flag,timesheet_flag,xfer_complete_day_cnt,xfer_notstart_day_cnt,curr_id,unit_id,rsrc_type,rsrc_notes,load_tasks_flag,level_flag,last_checksum
+0,3770,,1191,,,,,,KcfG4un7BkGZMHjdzD2ICQ,21401,,,,,Cash,Porto Matroh,,1,QT_Hour,0,Y,Y,Y,N,N,60,60,1,,RT_Mat,,,,
+1,3771,,1191,,,,,,LJsxIbEfHUCZUPzKazh2ug,21505,,,,,Concrete,R-Conc,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,158,RT_Mat,,,,
+2,3772,,1191,,,,,,rZzbBIe+KUiooDhTGhJc6g,21504,,,,,Steel bars,R-Steel,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,106,RT_Mat,,,,
+3,3773,,1191,,,,,,S3gvwr8LMECMefZX7Chxfw,21500,,,,,Foam Concrete,R-Foam Conc,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,158,RT_Mat,,,,
+4,3774,,1191,,,,,,bmuR61LC2Ue8wJh5VcwiDQ,21501,,,,,Proofing membrane,R-Proofing membrane,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,107,RT_Mat,,,,
+5,3775,,1191,,,,,,Gc4WhCUZaU+TLcIHWVVSTA,21502,,,,,Polysterine,R-Polysterine,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,107,RT_Mat,,,,
+6,3776,,1191,,,,,,l1nRk0+3UEmMlAuowtoRUA,21503,,,,,Slab Formwork,R-Slab FW,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,107,RT_Mat,,,,
+7,3777,,1191,,,,,,i/PAGW+LJUWxzRBJs7vAwA,21609,,,,,Formwork Labors,R-FW,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,,RT_Labor,"<!DOCTYPE HTML PUBLIC """"-//W3C//DTD HTML 4.0 Transitional//EN""""><HTML><HEAD><META content=""""text/html; charset=unicode"""" http-equiv=Content-Type><META name=GENERATOR content=""""MSHTML 8.00.6001.22918""""></HEAD><BODY bgColor=#ffffff></BODY></HTML>",,,
+8,3778,,1191,,,,,,8r5N2If8pUKQlczxqWA6XQ,21606,,,,,Steel Labors,R-Steel-1,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,,RT_Labor,,,,
+9,3779,,1191,,,,,,1UEOv4rxT0Oyz6y6ob6nng,21607,,,,,Conc Labors,R-Conc Labor,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,,RT_Labor,,,,
+10,3780,,1191,,,,,,jVNDjdeIaEWtguI/TYIMoA,21608,,,,,Insulation Labors,R-Insulation,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,,RT_Labor,,,,

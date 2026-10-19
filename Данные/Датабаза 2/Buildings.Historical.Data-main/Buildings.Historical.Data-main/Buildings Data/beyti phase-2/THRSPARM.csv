@@ -1,0 +1,2 @@
+,thresh_parm_id,seq_num,wbs_flag,task_flag,rsrc_flag,thresh_parm_type,thresh_parm_name,thresh_field_name,thresh_short_name
+0,15,1,Y,Y,N,TH_Drtn,Start Date Variance (days),var_start_date_drtn_hr_cnt,

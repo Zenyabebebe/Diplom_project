@@ -1,0 +1,6 @@
+,udf_type_id,table_name,udf_type_name,udf_type_label,logical_data_type,super_flag,indicator_expression,summary_indicator_expression
+0,196,TASK,user_field_196,SDAY,FT_INT,,,
+1,197,TASK,user_field_197,FDAY,FT_INT,,,
+2,198,TASK,user_field_198,TEMP,FT_INT,,,
+3,202,TASK,user_field_202,Priority,FT_INT,,,
+4,203,TASK,user_field_203,TID,FT_INT,,,

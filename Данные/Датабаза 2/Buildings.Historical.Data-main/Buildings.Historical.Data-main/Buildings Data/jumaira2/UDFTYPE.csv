@@ -1,0 +1,3 @@
+,udf_type_id,table_name,udf_type_name,udf_type_label,logical_data_type,super_flag,indicator_expression,summary_indicator_expression
+0,196,TASK,user_field_196,Planned Start,FT_START_DATE,,,
+1,197,TASK,user_field_197,Planned Finish,FT_END_DATE,,,

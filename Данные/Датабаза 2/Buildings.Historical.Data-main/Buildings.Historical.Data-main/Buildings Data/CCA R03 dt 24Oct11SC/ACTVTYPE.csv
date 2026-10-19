@@ -1,0 +1,40 @@
+,actv_code_type_id,actv_short_len,seq_num,actv_code_type,proj_id,wbs_id,actv_code_type_scope
+0,149,4,40090,Phase,,,AS_Global
+1,5274,7,301,CCAD BUILDING(SET),,,AS_Global
+2,5275,7,8,CCAD PHASE(SET),,,AS_Global
+3,5276,7,2,CCAD DIVISION(SET),,,AS_Global
+4,5277,7,101,CCAD FLOOR(SET),,,AS_Global
+5,5278,7,5,CCAD ZONE(SET),,,AS_Global
+6,5279,7,2,CCAD WORK(SET),,,AS_Global
+7,5280,20,10,CCAD SECTION(SET),,,AS_Global
+8,5281,7,302,CCAD SERIAL No.(SET),,,AS_Global
+9,5282,7,102,CCAD SUB ZONE MEP(SET),,,AS_Global
+10,5283,4,40100,Area/ Department,,,AS_Global
+11,5284,4,40120,Grids,,,AS_Global
+12,5285,2,40130,Are,,,AS_Global
+13,5286,4,40140,Weight & Nos,,,AS_Global
+14,5287,4,40150,Process,,,AS_Global
+15,5288,5,40160,Levels,,,AS_Global
+16,5289,7,9,CCAD RESPONSIBILITY(SET),,,AS_Global
+17,5290,7,5,CCAD Carpark code(SET),,,AS_Global
+18,5291,7,7,CCAD CUP CODE(SET),,,AS_Global
+19,5292,7,6,CCAD Carpark district code(set),,,AS_Global
+20,5293,7,7,CCAD CBS(SET),,,AS_Global
+21,5294,7,303,CCAD BILL(SET),,,AS_Global
+22,5295,7,10,CCAD HANDOVER(SET),,,AS_Global
+23,5296,7,74255,CCAD TAG(SET),,,AS_Global
+24,5297,7,74257,CCAD REV(SET),,,AS_Global
+25,5298,7,74455,TO BE DELETED,,,AS_Global
+26,5299,7,74261,FILTER,,,AS_Global
+27,5300,15,100,CCAD (VO),,,AS_Global
+28,5301,10,304,CCADACF (SET),,,AS_Global
+29,5302,7,306,CCAD MEQ,,,AS_Global
+30,5303,7,308,FSP CODE,,,AS_Global
+31,5304,7,74258,CCAD CSA,,,AS_Global
+32,5305,7,74259,CCAD SSCF,,,AS_Global
+33,5306,7,11,CCA VO (SET),,,AS_Global
+34,5323,7,0,Act Selector %,8788,,AS_Project
+35,5324,7,100,R3 Partitions,8788,,AS_Project
+36,5325,7,300,R3 Finish,8788,,AS_Project
+37,5326,7,400,R3 Furniture,8788,,AS_Project
+38,5327,7,500,R3 MEP,8788,,AS_Project

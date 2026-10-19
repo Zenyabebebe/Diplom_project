@@ -1,0 +1,3 @@
+,rsrc_catg_id,rsrc_catg_type_id,seq_num,rsrc_catg_short_name,rsrc_catg_name,parent_rsrc_catg_id
+0,75,21,0,ON,Onshore,
+1,92,21,8,Constr,Construction labor,75

@@ -1,0 +1,5 @@
+,actv_code_id,parent_actv_code_id,actv_code_type_id,actv_code_name,short_name,seq_num
+0,12728,,7250,civil works,civil,0
+1,12731,,7251,FOOTING LEVEL,FOOTING,0
+2,12732,,7251,GROUND LEVEL,GROUND,100
+3,12735,,7252,ZONE 1,PET-Z 1,0

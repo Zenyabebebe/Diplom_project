@@ -1,0 +1,5 @@
+,rsrc_id,parent_rsrc_id,clndr_id,role_id,shift_id,ts_approve_user_id,user_id,pobs_id,guid,rsrc_seq_num,email_addr,employee_code,office_phone,other_phone,rsrc_name,rsrc_short_name,rsrc_title_name,def_qty_per_hr,cost_qty_type,ot_factor,active_flag,auto_compute_act_flag,def_cost_qty_link_flag,ot_flag,timesheet_flag,xfer_complete_day_cnt,xfer_notstart_day_cnt,curr_id,unit_id,rsrc_type,rsrc_notes,load_tasks_flag,level_flag,last_checksum
+0,2117,,841,,,,,,EB/Fzb2NdEqOTCI9qJdeEw,15160,,,,,Steel Fixing labours,s.l,,0.125,QT_Hour,,Y,Y,Y,N,N,60,60,32,,RT_Labor,,,,
+1,2118,,841,,,,,,f0HsLs7fj0iqOcnoLWkoOQ,15161,,,,,Form work labours,f.w.l,,1,QT_Hour,,Y,Y,Y,N,N,60,60,32,,RT_Labor,,,,
+2,2120,,841,,,,,,igKjngDOAkq/gbZHMaLBUQ,15163,,,,,Pouring labours,p.l,,1,QT_Hour,,Y,Y,Y,N,N,60,60,32,,RT_Labor,,,,
+3,2121,,841,,,,,,93T1qpdzlUWLy2znyhTsxQ,15164,,,,,insulation & water proofing labours,i.l,,1,QT_Hour,,Y,Y,Y,N,N,60,60,32,,RT_Labor,,,,

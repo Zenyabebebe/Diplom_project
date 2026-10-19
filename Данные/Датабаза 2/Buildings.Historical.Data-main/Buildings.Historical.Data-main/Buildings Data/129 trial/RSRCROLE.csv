@@ -1,0 +1,3 @@
+,rsrc_id,role_id,skill_level,role_short_name,role_name,rsrc_short_name,rsrc_name,rsrc_type,rsrc_role_id
+0,2125,517,3,Engr.srv, ,SV, ,RT_Labor,517
+1,2145,516,3,Engr.LP, -1,Enl, ,RT_Labor,516

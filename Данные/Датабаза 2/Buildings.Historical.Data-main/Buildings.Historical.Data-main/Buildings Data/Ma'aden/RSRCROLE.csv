@@ -1,0 +1,18 @@
+,rsrc_id,role_id,skill_level,role_short_name,role_name,rsrc_short_name,rsrc_name,rsrc_type,rsrc_role_id
+0,6914,1570,3,Third party 2,Aluminum Dome Roof Supplier,TP2-1,Third party for ALuminum Dome Roof Supervisor,RT_Labor,1570
+1,6915,1571,2,M,Construction Eng,PE-3,Project Engineer,RT_Labor,1571
+2,6928,1573,3,S,Safety,SO-1,Safety Officer,RT_Labor,1573
+3,6935,1572,3,Q,Quality,QC-1,QC inspector,RT_Labor,1572
+4,6942,1574,2,F,Supervision,F-2,Forman,RT_Labor,1574
+5,6944,1569,3,Third party-1,Foundation works,B-2,Backhoe,RT_Equip,1569
+6,6951,1575,3,CR,Equipment Operator,CR-2,Crane Operator,RT_Labor,1575
+7,6953,1569,3,Third party-1,Foundation works,M-1,Mason,RT_Labor,1569
+8,6957,1580,3,S-1,preparing scaffolds,S-1,Scaffolder,RT_Labor,1580
+9,6958,1579,4,W,Welding,TW-1,Tack Welder,RT_Labor,1579
+10,6964,1578,3,F-1,Fabrication/Fit-up,F-3,Fabricator,RT_Labor,1578
+11,6965,1581,3,H,Helper,H-1,Helper,RT_Labor,1581
+12,6966,1576,3,R,Rigging,R-47,Rigger,RT_Labor,1576
+13,6967,1577,3,D,Transportation,D-1,Driver,RT_Labor,1577
+14,6968,1579,3,W,Welding,W6-1,Welder 6G,RT_Labor,1579
+15,6969,1579,3,W,Welding,AW-1,Auto Welding Operator,RT_Labor,1579
+16,6980,1569,3,Third party-1,Foundation works,SW-1,Steel Workers,RT_Labor,1569

@@ -1,0 +1,12 @@
+,rsrc_id,parent_rsrc_id,clndr_id,role_id,shift_id,ts_approve_user_id,user_id,pobs_id,guid,rsrc_seq_num,email_addr,employee_code,office_phone,other_phone,rsrc_name,rsrc_short_name,rsrc_title_name,def_qty_per_hr,cost_qty_type,ot_factor,active_flag,auto_compute_act_flag,def_cost_qty_link_flag,ot_flag,timesheet_flag,xfer_complete_day_cnt,xfer_notstart_day_cnt,curr_id,unit_id,rsrc_type,rsrc_notes,load_tasks_flag,level_flag,last_checksum
+0,3922,3921,794,,,,,,dqY+nNTFaEG4IDS7lqMowA,2,,,,,CASH,OR-CASH,,1,QT_Hour,0,Y,Y,Y,N,N,60,60,32,,RT_Mat,<HTML><BODY></BODY></HTML>,,,
+1,3923,3921,794,,,,,,4lWo+pQo60mxbG3F+cPUNA,3,,,,,PLAIN CONCRETE,OR-P.C,,1,QT_Hour,0,Y,Y,Y,N,N,60,60,32,158,RT_Mat,,,,
+2,3925,3921,794,,,,,,r+df4cCQyU+4j0FNN4yzEw,201,,,,,CARPENTER,OR,1,1,QT_Hour,,Y,Y,Y,N,N,60,60,32,,RT_Labor,,,,
+3,3926,3921,794,,,,,,TZWCSVKwFkm14Dl2se3dyA,101,,,,,STEEL LABOUR,OR-1,2,1,QT_Hour,,Y,Y,Y,N,N,60,60,32,,RT_Labor,,,,
+4,3927,3921,794,,,,,,G47ST3jWnECj8LafX7vyGA,301,,,,,Brickwork Labor,OR-2,3,1,QT_Hour,,Y,Y,Y,N,N,60,60,32,,RT_Labor,,,,
+5,3928,3921,794,,,,,,I+KyOf9fQUqYj1eX/vVLSQ,5,,,,,REINFORCED CONCRETE,OR-RC,,1,QT_Hour,0,Y,Y,Y,N,N,60,60,32,158,RT_Mat,,,,
+6,3929,3921,794,,,,,,r+gyNFPo2ky/ql77weVtQA,6,,,,,FORM WORK,OR-FW,,1,QT_Hour,0,Y,Y,Y,N,N,60,60,32,107,RT_Mat,,,,
+7,3930,3921,794,,,,,,DjjMkoz45UmezkQB1mhH8Q,1,,,,,STEEL RFT,OR-STEEL,,1,QT_Hour,0,Y,Y,Y,N,N,60,60,32,1456,RT_Mat,<HTML><BODY></BODY></HTML>,,,
+8,4331,3921,794,,,,,,AdNMwGDV90yjWBQhy2AkWw,4,,,,,EXTERNAL PLASTER WORKER,OR-PLASTER,,1,QT_Hour,,Y,Y,Y,N,N,60,60,32,,RT_Labor,,,,
+9,4332,3921,794,,,,,,6zoPi3IQqEq9VC3XJgKvtw,0,,,,,PAINTER WORKER,OR-PAINTER,,1,QT_Hour,,Y,Y,Y,N,N,60,60,32,,RT_Labor,,,,
+10,3921,,794,,,,,,uMl3e2v4FUiBgT/hrOIwGA,21400,,,,,ALL RESOURCES,ORIANA,,1,QT_Hour,,Y,Y,Y,N,N,60,60,32,,RT_Equip,<HTML><BODY></BODY></HTML>,,,

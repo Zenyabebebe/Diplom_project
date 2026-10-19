@@ -1,0 +1,4 @@
+,rsrc_id,parent_rsrc_id,clndr_id,role_id,shift_id,ts_approve_user_id,user_id,pobs_id,guid,rsrc_seq_num,email_addr,employee_code,office_phone,other_phone,rsrc_name,rsrc_short_name,rsrc_title_name,def_qty_per_hr,cost_qty_type,ot_factor,active_flag,auto_compute_act_flag,def_cost_qty_link_flag,ot_flag,timesheet_flag,xfer_complete_day_cnt,xfer_notstart_day_cnt,curr_id,unit_id,rsrc_type,rsrc_notes,load_tasks_flag,level_flag,last_checksum
+0,1749,1745,597,,,,,,EnmmvSG3uEavV7SsNr3+Zx,508,,,,,Design Engineering Department,Design Engineers,,1,QT_Hour,,Y,Y,Y,N,N,30,30,1,,RT_Labor,,,,
+1,1770,1749,597,,,,,,RWK/HOOLSUu13J7hhefpZh,1002,,,,,Ed Wood,ED,Program Manager,1,QT_Hour,,Y,Y,Y,N,N,30,30,1,,RT_Labor,<HTML><BODY></BODY></HTML>,,,
+2,1745,,597,,,,,,A1WwJc7JIEaBsvxBygW//R,0,systems@bankcorp.com,,718-456-9021,203-121-2323,Innovative Construction Internal Resources,Innovative Resources,,1,QT_Hour,1,Y,Y,Y,N,N,60,30,1,,RT_Labor,<HTML><BODY></BODY></HTML>,,,

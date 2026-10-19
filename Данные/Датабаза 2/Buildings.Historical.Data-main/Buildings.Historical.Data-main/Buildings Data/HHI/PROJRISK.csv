@@ -1,0 +1,2 @@
+,risk_id,risk_code,proj_id,add_date,status_code,risk_name,risk_type_id,rsrc_id,risk_desc,risk_to_type,identified_by_id,response_type,response_text,pre_rsp_prblty,pre_rsp_schd_prblty,pre_rsp_cost_prblty,post_rsp_prblty,post_rsp_schd_prblty,post_rsp_cost_prblty,risk_cause,risk_effect,notes
+0,3127,RISK1,6764,,RS_Propose,Delay in Water Supply,,,,RT_Threat,,,,,,,,,,,,

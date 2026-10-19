@@ -1,0 +1,9 @@
+,actv_code_type_id,actv_short_len,seq_num,actv_code_type,proj_id,wbs_id,actv_code_type_scope
+0,7262,5,16481,Global Commodity Code,,,AS_Global
+1,7263,7,16482,Global Activity Code,,,AS_Global
+2,7264,3,0,Phase-2,,,AS_Global
+3,7265,3,0,Work Package,773,,AS_Project
+4,7266,3,100,Resp.,773,,AS_Project
+5,7267,3,200,Phase-1,,,AS_Global
+6,7268,3,300,Commodity,773,,AS_Project
+7,7269,3,100,Resp,,,AS_Global

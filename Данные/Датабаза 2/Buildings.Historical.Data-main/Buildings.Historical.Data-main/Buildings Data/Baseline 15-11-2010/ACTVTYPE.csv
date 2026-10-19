@@ -1,0 +1,4 @@
+,actv_code_type_id,actv_short_len,seq_num,actv_code_type,proj_id,wbs_id,actv_code_type_scope
+0,7319,2,0,location,793,,AS_Project
+1,7320,2,100,type of work,793,,AS_Project
+2,7321,7,200,detailed work,793,,AS_Project

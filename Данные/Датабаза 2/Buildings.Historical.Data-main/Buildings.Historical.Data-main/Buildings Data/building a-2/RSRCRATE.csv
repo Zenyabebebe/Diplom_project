@@ -1,0 +1,5 @@
+,rsrc_rate_id,rsrc_id,max_qty_per_hr,cost_per_qty,start_date,shift_period_id,cost_per_qty2,cost_per_qty3,cost_per_qty4,cost_per_qty5
+0,2829,2669,81.25,300,2009-01-01 00:00,,0,0,0,0
+1,2830,2668,81.25,350,2009-01-01 00:00,,0,0,0,0
+2,2831,2672,1,480,2009-01-01 00:00,,0,0,0,0
+3,2832,2673,1,354,2010-01-01 00:00,,0,0,0,0

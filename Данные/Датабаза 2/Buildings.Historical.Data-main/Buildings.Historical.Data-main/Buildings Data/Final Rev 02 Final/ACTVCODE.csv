@@ -1,0 +1,267 @@
+,actv_code_id,parent_actv_code_id,actv_code_type_id,actv_code_name,short_name,seq_num
+0,3174,,205,General,Gen,0
+1,3175,,205,Structural Works,Structu,100
+2,3176,,205,Finishing Works,Finishi,200
+3,3177,,206,Parking,Parking,1
+4,3178,,206,Towers,Towers,100
+5,3179,,206,General,Gen,0
+6,3180,,207,Foundation Level,Found,3
+7,3181,,207,Basement 3 ( Parking ),B3,4
+8,3182,,207,Basement 2 ( Parking ),B2,5
+9,3183,,207,Basement 1 ( Parking ),B1,100
+10,3184,,207,Ground Floor,GF,201
+11,3185,,207,Mezzanine Floor,Mezz,300
+12,3186,,207,Floor R01,R01,500
+13,3187,,207,Floor R02,R02,600
+14,3188,,207,Floor R03,R03,601
+15,3189,,207,Floor R04,R04,700
+16,3190,,207,Floor R05,R05,800
+17,3191,,207,Floor R06,R06,900
+18,3192,,207,Floor R07,R07,1000
+19,3193,,207,Floor R08,R08,1100
+20,3194,,207,Floor R09,R09,1200
+21,3195,,207,Floor R10,R10,1300
+22,3196,,207,Floor R11,R11,1400
+23,3197,,207,Floor R12,R12,1500
+24,3198,,207,Floor R13,R13,1600
+25,3199,,207,Floor R14,R14,1700
+26,3200,,207,Floor R15,R15,1800
+27,3201,,207,Floor R16,R16,1900
+28,3202,,207,Floor R17,R17,2000
+29,3203,,207,Floor R18,R18,2100
+30,3204,,207,Floor R19,R19,2200
+31,3205,,207,Floor R20,R20,2300
+32,3206,,207,Floor R21,R21,2400
+33,3207,,207,Floor R22,R22,2500
+34,3208,,207,Floor Terrace,Rsa,2800
+35,3209,,208,Contractual Milestones,Contr,0
+36,3210,,208,Construction Works,Const,200
+37,3211,,209,General Area,Gen,0
+38,3212,,209,Tower 1  Area,T01,1
+39,3213,,209,Tower 2  Area,T02,100
+40,3214,,209,Tower 3  Area,T03,200
+41,3215,,209,Tower 4  Area,T04,301
+42,3216,,207,Technical Floor 01,T1,400
+43,3217,,207,Technical Floor 02,T2,2700
+44,3218,,207,General,GEN,1
+45,3219,,210,All  Areas,ALL,0
+46,3220,,210,Floors,FLOOR,100
+47,3221,,210,Facades,FACADE,200
+48,3222,,210,Elevators & Escalators,ELEV,300
+49,3223,,207,Floor Saloon,R23,2600
+50,3224,,208,Engineering Works,Engg,200
+51,3225,,206,Tower - 1,T1,100
+52,3226,,211,Shop Drawings Submission,SD Sub,1
+53,3227,,207,Mechanical,Mech,2
+54,3228,,207,Electrical,Elect,3
+55,3229,,205,HVAC System,AC,500
+56,3230,,205,Chilled Water System,CHW,501
+57,3231,,205,Drainage System,DR,200
+58,3232,,205,Water Supply System,WS,300
+59,3233,,205,Fire Fighting System,FF,400
+60,3234,,211,Shop Drawings Approval,SD App,2
+61,3235,,205,Lighting System,LT,502
+62,3236,,205,Power System,PW,503
+63,3237,,205,Fire Alarm System,FA,504
+64,3238,,205,Telephone System,TL,505
+65,3239,,205,MATV System,TV,600
+66,3240,,205,Videophone System,VP,700
+67,3241,,205,Intrusion Alarm System,IA,800
+68,3242,,205,BMS System,BMS,900
+69,3243,,207,Builders Work,BW,4
+70,3244,,205,Builders Work MEP Slab Openings,SO,1000
+71,3245,,205,Builders Work MEP Core Wall Opening,WO,1100
+72,3246,,213,Second Fix MEP,MEP2,900
+73,3247,,213,First Fix (conduites),MEP1,400
+74,3248,,213,MEP final fix,MEP3,1103
+75,3249,,213,Inspections,INS,1400
+76,3250,,213,HVAC & Fire Fighting,HVAC 1,902
+77,3251,,213,Tech & Elec Rooms in each floor,TR,1301
+78,3252,,212,Tower 1,T1,370
+79,3253,,212,Basments,BG,170
+80,3254,,211,General Milestones,GM,4
+81,3255,,211,MEP Builders Work,BW,3
+82,3256,,211,MEP Risers,RI,702
+83,3257,,208,Procurement,Proc,300
+84,3258,,208,Authority Approvals,Auth,500
+85,3259,,208,Testing & Commissioning,TC,600
+86,3260,,208,Snagging & Desnagging,Snag,700
+87,3261,,206,Tower - 2,T2,100
+88,3262,,206,Tower - 3,T3,101
+89,3263,,206,Tower - 4,T4,200
+90,3264,,206,Mechanical,ME,300
+91,3265,,206,Electrical,EL,400
+92,3266,,206,Snagging & Desnagging Tower - 1,SNG T1,800
+93,3267,,206,Snagging & Desnagging Tower - 2,SNG T2,900
+94,3268,,206,Snagging & Desnagging Tower - 3,SNG T3,1000
+95,3269,,206,Snagging & Desnagging Tower - 4,SNG T4,1100
+96,3270,,209,Mechanical Drawings,MED,1200
+97,3271,,209,Electrical Drawings,ELD,1300
+98,3272,,209,Builders Work Drawings,BWD,1400
+99,3273,,209,Drainage,DR,1500
+100,3274,,209,Plumbing,PL,1600
+101,3275,,209,Fire Fighting,FF,1700
+102,3276,,209,HVAC - Air Side,AC,1800
+103,3277,,209,HVAC - Chilled Water,CW,1900
+104,3278,,209,Fuel System (Generator),Fuel,2000
+105,3279,,209,Power & Lighting,PW,2100
+106,3280,,209,ELV Systems,ELV,2200
+107,3281,,209,Mechanical Systems,Msys,2400
+108,3282,,209,Electrical Systems,Esys,2500
+109,3283,,207,Draiange Pipes & Fitings,DR1,18
+110,3284,,207,Floor Drains & Outlets (Covers),DR2,19
+111,3285,,207,Sewage Lifting Pump,DR3,20
+112,3286,,207,PPR Pipes & Fitings,WS1,21
+113,3287,,207,PEX Pipes & Fittings,WS2,22
+114,3288,,207,Water Supply Valves & Accessories,WS3,23
+115,3289,,207,Pressure Reducing Stations - PRV,WS4,24
+116,3290,,207,Hot Water Pipe Insulation,WS5,25
+117,3291,,207,Water Heaters,WS6,26
+118,3292,,207,Water Booster Pump,WS7,27
+119,3293,,207,Gas Boilers,WS8,28
+120,3294,,207,Gas Pipes for Boiler,WS9,29
+121,3295,,207,Hot Water Storrage Tank,WS10,30
+122,3296,,207,Water Disinfection System,WS12,32
+123,3297,,207,Water Meters,WS13,33
+124,3298,,207,Sanitary Fixtures,WS14,34
+125,3299,,207,Fire Fighting Pipes & Fittings,FF1,35
+126,3300,,207,Valves & Accessories for FF system,FF2,36
+127,3301,,207,Fire Fighting Pumps,FF3,37
+128,3302,,207,Fire Hose Reel Cabinet,FF4,38
+129,3303,,207,Fire Extinguishers,FF5,39
+130,3304,,207,Sprinklers,FF6,40
+131,3305,,207,GI Ducts,AC1,41
+132,3306,,207,Duct Insulation,AC2,42
+133,3307,,207,Volume Control Damper,AC3,43
+134,3308,,207,Fire Damper,AC4,44
+135,3309,,207,Motorized Damper,AC5,45
+136,3310,,207,Flexible Ducts,AC6,46
+137,3311,,207,Flexible Duct Connector,AC7,47
+138,3312,,207,Grills & Diffusers,AC8,48
+139,3313,,207,Kitchen Hoods / Exhaust Hoods Black Steel,AC9,49
+140,3314,,207,Air Handling Units,AC10,50
+141,3315,,207,Fan Coil Units,AC11,51
+142,3316,,207,Extract / Pressurization Fans,AC12,52
+143,3317,,207,Sound Attenuators,AC13,53
+144,3318,,207,Split Units,AC14,54
+145,3319,,207,Refrigerant Pipes for Split Units,AC15,55
+146,3320,,207,Vibration Isolators,AC16,56
+147,3321,,207,CO Detector System,AC17,57
+148,3322,,207,Pipe Supports,CW1,58
+149,3323,,207,Chilled Water Pipes & Fittings,CW2,59
+150,3324,,207,Chilled Water Pipe Insulation,CW3,60
+151,3325,,207,Valves & Accessories for CHW System,CW4,61
+152,3326,,207,Chiller,CW5,62
+153,3327,,207,Chilled Water Pumps,CW6,63
+154,3328,,207,Chilled Water Pressurization Units,CW7,64
+155,3329,,207,Chemical Dosing System,CW8,65
+156,3330,,207,Condensate Drain Pipes,CW9,66
+157,3331,,207,Fuel Pipes,FU1,67
+158,3332,,207,Fuel Storrage Tank,FU2,68
+159,3333,,207,Fuel Pump,FU3,69
+160,3334,,207,PVC Conduits & Fittings,PL1,70
+161,3335,,207,G.I Conduits & Fittings,PL2,71
+162,3336,,207,G.I Back Boxes,PL3,72
+163,3337,,207,Earthing & Lightning Protection System,PL4,73
+164,3338,,207,Cable Tray / Trunking & Accessories,PL5,74
+165,3339,,207,Cable Tray / Trunking & Accessories,PL6,75
+166,3340,,207,Wires for Emergency Lights,PL7,76
+167,3341,,207,LV cables,PL8,77
+168,3342,,207,HV Cables,PL9,78
+169,3343,,207,Busbar Risers+Plugins,PL10,79
+170,3344,,207,Lighting Control System,PL11,80
+171,3345,,207,Emergency Central Battery System,PL12,81
+172,3346,,207,Isolators,PL13,82
+173,3347,,207,Final DBs,PL14,83
+174,3348,,207,SMDBs,PL15,84
+175,3349,,207,MDB,PL16,85
+176,3350,,207,HV Switchgear,PL17,86
+177,3351,,207,MCCs,PL18,87
+178,3352,,207,Transformers,PL19,88
+179,3353,,207,Generator,PL20,89
+180,3354,,207,Flexible Conduit,PL21,90
+181,3355,,207,Wiring Accessories,PL22,91
+182,3356,,207,Light Fittings,PL23,92
+183,3357,,207,Telephone & Data System,ELV1,93
+184,3358,,207,Cables for Telephone & Data System,ELV2,94
+185,3359,,207,Fire Alarm System,ELV3,95
+186,3360,,207,Wires for Fire Alarm System,ELV4,96
+187,3361,,207,BMS System,ELV5,97
+188,3362,,207,Wires for BMS System,ELV6,98
+189,3363,,207,CCTV System,ELV7,99
+190,3364,,207,Access Control System,ELV8,100
+191,3365,,207,Intrusion Alarm system,ELV9,101
+192,3366,,207,Public Address System,ELV10,102
+193,3367,,207,Video Intercom system,ELV11,103
+194,3368,,207,MATV system,ELV12,104
+195,3369,,207,Cables for MATV System,ELV13,105
+196,3370,,207,Drainage,DR,3200
+197,3371,,207,Plumbing,PL,3300
+198,3372,,207,Fire Fighting,FF,3400
+199,3373,,207,HVAC - Air Side,HV,3500
+200,3374,,207,HVAC - Chilled Water,CW,3600
+201,3375,,207,Electrical Power & Lighting,EL,3700
+202,3376,,207,Fire Alarm System,FA,3800
+203,3377,,207,Building Management System,BM,3801
+204,3378,,207,Security System,SC,3802
+205,3379,,207,MATV System,TV,4000
+206,3380,,205,MEP Installations,MEP,200
+207,3381,,211,MEP Services,Mep ser,602
+208,3382,,211,Electrical Rooms,EL Room,902
+209,3383,,211,Drainage Lifting Station,DLS,1002
+210,3384,,211,Pump Room,PR,1102
+211,3385,,211,Sub Station,SS,1202
+212,3386,,211,Boiler Plant,BP,1103
+213,3387,,211,Mechanical Plant Rooms,MPR,1302
+214,3388,,214,Electrical,EL,0
+215,3389,,214,Telephone & Data,TL,100
+216,3390,,214,Fire Alarm System,FA,200
+217,3391,,214,Building Management System,BMS,300
+218,3392,,214,Security Systems,SEC,400
+219,3393,,214,Video Intercom System,VI,500
+220,3394,,214,Drainage,DR,600
+221,3395,,214,Plumbing,PL,700
+222,3396,,214,HVAC - Air Side,HVAC,800
+223,3397,,214,HVAC - Chilled Water Pipe Work,Chw,900
+224,3398,,214,FIre FIghting,FF,1000
+225,3399,,214,MATV System,TV,501
+226,3400,,215,First FIx,1f,0
+227,3401,,215,Second Fix,2f,100
+228,3402,,215,Final Fix,ff,200
+229,3403,,215,Builders Work,bw,300
+230,3404,,209,RCP Drawings,RCP,1401
+231,3405,,207,RCP Drawings,RCP,107
+232,3406,,205,RCP Drawings,RCP,1900
+233,3407,,211,Receive RCP Drawings,RCP,0
+234,3408,,206,From Basement To Mezzanine,BToM,1
+235,3409,,206,Typical Floors,TYP,2
+236,3410,,206,External Works,Externa,200
+237,3411,,216,MEP CONTRACTOR,MEP,6
+238,3412,,210,Swimming Pools,POOLS,201
+239,3413,,210,Ramp Area,RAMP,101
+240,3414,,210,Under Tower & Podium Areas,UT&P,102
+241,3415,,210,Under Tower Area,UT,200
+242,3416,,210,Podium Area,POD,201
+243,3417,,210,Dry Areas,DRY,202
+244,3418,,210,Wet Areas,WET,203
+245,3419,,210,Common Areas,COMM,204
+246,3420,,210,Plant Rooms,PLANT,206
+247,3421,,210,Closed Areas,Closed,207
+248,3422,,210,Terrace,TERR,303
+249,3423,,208,Facility Maintenance,Mainten,1
+250,3424,,208,As Built & O&M Manuals,ASBUILT,1
+251,3425,,210,Main Lobby,MLOBBY,1
+252,3426,,210,Multifunction Hall,MULT-H,1
+253,3427,,210,Other Areas,OTHER,1
+254,3428,,210,"Bath Rooms , Kitchens & Laundery",BATH,1
+255,3429,,210,SPA Area,SPA,1
+256,3430,,210,Technical Common Area,TCOMM,1
+257,3431,,210,Sum Pits & Drainage Lifting Stations,Sump,1
+258,3432,,210,Submission,Subm,100
+259,3433,,210,Approval,App,101
+260,3434,,210,Procurement,PROC,102
+261,3435,,205,External Works,EXTERNA,1
+262,3440,,355,(New Code Value),Tower 1,100
+263,3441,,355,(New Code Value),Tower 2,101
+264,3442,,355,(New Code Value),Tower 3,102
+265,3443,,355,(New Code Value),Tower 4,103

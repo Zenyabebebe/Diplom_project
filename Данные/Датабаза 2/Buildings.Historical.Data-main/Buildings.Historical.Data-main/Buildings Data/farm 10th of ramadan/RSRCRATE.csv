@@ -1,0 +1,3 @@
+,rsrc_rate_id,rsrc_id,max_qty_per_hr,cost_per_qty,start_date,shift_period_id,cost_per_qty2,cost_per_qty3,cost_per_qty4,cost_per_qty5
+0,2527,2901,1,0.00,2012-01-01 00:00,,0.00,0.00,0.00,0.00
+1,2528,2902,0.125,1.00,2011-01-01 00:00,,0.00,0.00,0.00,0.00

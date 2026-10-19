@@ -1,0 +1,4 @@
+,actv_code_type_id,actv_short_len,seq_num,actv_code_type,proj_id,wbs_id,actv_code_type_scope
+0,7300,7,1,TYPE OF WORK,,,AS_Global
+1,7301,7,2,FLOOR LEVEL,,,AS_Global
+2,7302,7,3,PET FILLING BUILDING,,,AS_Global

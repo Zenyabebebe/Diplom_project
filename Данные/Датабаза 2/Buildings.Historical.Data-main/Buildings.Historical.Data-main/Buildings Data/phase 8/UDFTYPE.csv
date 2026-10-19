@@ -1,0 +1,3 @@
+,udf_type_id,table_name,udf_type_name,udf_type_label,logical_data_type,super_flag,indicator_expression,summary_indicator_expression
+0,203,TASK,user_field_203,Start dates,FT_INT,N,,
+1,204,TASK,user_field_204,finish dates,FT_INT,N,,

@@ -1,0 +1,96 @@
+,actv_code_id,parent_actv_code_id,actv_code_type_id,actv_code_name,short_name,seq_num
+0,12728,,7250,General,0,10
+1,12729,,7250,Mobilization,M,20
+2,12730,,7250,Subcontracting,S,30
+3,12731,,7250,Engineering,E,40
+4,12732,,7250,Procurement,P,50
+5,12733,,7250,Substructure,1,60
+6,12734,,7250,Super structure,2,70
+7,12735,,7250,Finishing works,3,80
+8,12736,,7250,MEP installations,4,90
+9,12737,,7250,External works,5,100
+10,12738,,7250,Handing over,6,110
+11,12739,,7251,West,1,10
+12,12740,,7251,East,2,20
+13,12741,,7252,Project Milestones,0,10
+14,12742,,7252,Mobilization,1,20
+15,12743,,7252,Subcontracting,2,30
+16,12744,,7252,Shop drawings,3,40
+17,12745,,7252,Materials,4,50
+18,12746,,7252,Methodstatements,5,60
+19,12747,,7252,Procurement,6,70
+20,12748,,7252,Construction,7,80
+21,12749,,7252,Close out,8,90
+22,12750,,7253,General,00,10
+23,12751,,7253,Basement - West,10,20
+24,12752,,7253,Building - A,11,30
+25,12753,,7253,Building - B,12,40
+26,12754,,7253,Building - C,13,50
+27,12755,,7253,Substation - A,1S,60
+28,12756,,7253,Substation - C,1X,70
+29,12757,,7253,Basement - East,20,80
+30,12758,,7253,Building - D,21,90
+31,12759,,7253,Building - E,22,100
+32,12760,,7253,Building - F,23,110
+33,12761,,7253,Substation - D,2S,120
+34,12762,,7253,Substation - F,2X,130
+35,12763,,7253,External works - West,15,140
+36,12764,,7253,External works - East,25,150
+37,12765,,7254,General,00,10
+38,12766,,7254,Underground level,BM,20
+39,12767,,7254,Ground - Lower loft level,GL,30
+40,12768,,7254,Ground - Upper loft level,GU,40
+41,12769,,7254,Level 1 - Lower duplex level,1L,50
+42,12770,,7254,Level 1 - Upper duplex level,1U,60
+43,12771,,7254,Level 2 - Lower duplex level,2L,70
+44,12772,,7254,Level 2 - Upper duplex level,2U,80
+45,12773,,7254,Roof level,RF,90
+46,12774,,7254,Staircases,ST,100
+47,12775,,7254,Elevations,EV,110
+48,12776,,7254,Garbage rooms,GR,120
+49,12777,,7254,Passenger Elevators,PE,130
+50,12778,,7254,General,99,140
+51,12779,,7255,General,00,10
+52,12780,,7255,Earth works,04,20
+53,12781,,7255,Foundation concrete works,06,30
+54,12782,,7255,Foundation block works,08,40
+55,12783,,7255,Substructure W/P,10,50
+56,12784,,7255,Skeleton works,12,60
+57,12785,,7255,Block works,14,70
+58,12786,,7255,Plaster works,16,80
+59,12787,,7255,Painting works,18,90
+60,12788,,7255,Ceramic & porcelain tiles,20,100
+61,12789,,7255,Water proofing works,22,110
+62,12790,,7255,Aluminium doors & windows,24,120
+63,12791,,7255,Steel Doors,26,130
+64,12792,,7255,Metal works,28,140
+65,12793,,7255,Wooden doors,30,150
+66,12794,,7255,Joinery Fixtures,32,160
+67,12795,,7255,False ceiling works,34,170
+68,12796,,7255,Stone works,36,180
+69,12797,,7255,Floor coating systems,38,190
+70,12798,,7255,Duplex Apartment Staircases,40,200
+71,12799,,7255,Signage works,42,210
+72,12800,,7255,Miscellaneous,44,220
+73,12801,,7255,Lift works,46,230
+74,12802,,7255,Garbage system,48,240
+75,12803,,7255,MEP structure embedded provisions,50,250
+76,12804,,7255,A/C System,52,260
+77,12805,,7255,Water supply system,54,270
+78,12806,,7255,Drainage works,56,280
+79,12807,,7255,Fire fighting installations,58,290
+80,12808,,7255,LPG System,60,300
+81,12809,,7255,BMS system,62,310
+82,12810,,7255,Electrical common works,66,320
+83,12811,,7255,Electrical & power supply,68,330
+84,12812,,7255,Central Battery System,70,340
+85,12813,,7255,Integrated security system,72,350
+86,12814,,7255,Fire Alarm system,74,360
+87,12815,,7255,Structure cabling system,76,370
+88,12816,,7255,Road works,80,380
+89,12817,,7255,Retaining walls,82,390
+90,12818,,7255,External drainage netwok,84,400
+91,12819,,7255,External fire fighting netwok,85,410
+92,12820,,7255,Landscaping worka,86,420
+93,12821,,7255,House connections,90,430
+94,12822,,7255,Close out,CO,440

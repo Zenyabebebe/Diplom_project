@@ -1,0 +1,11 @@
+,actv_code_type_id,actv_short_len,seq_num,actv_code_type,proj_id,wbs_id,actv_code_type_scope
+0,3772,4,49200,PROJECT,6359,,AS_Project
+1,3773,4,49210,PHASES,6359,,AS_Project
+2,3774,4,49220,PACKAGE,6359,,AS_Project
+3,3775,4,49230,PART,6359,,AS_Project
+4,3776,4,49240,ELEMENTS,6359,,AS_Project
+5,3777,4,49250,STEP,6359,,AS_Project
+6,3778,4,49260,FLOORS,6359,,AS_Project
+7,3779,4,49270,BILL NOS,6359,,AS_Project
+8,3780,8,49280,BILL DIVISION,6359,,AS_Project
+9,3781,7,49380,RES PACK,6359,,AS_Project

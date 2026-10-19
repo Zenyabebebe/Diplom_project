@@ -1,0 +1,13 @@
+,actv_code_id,parent_actv_code_id,actv_code_type_id,actv_code_name,short_name,seq_num
+0,13246,,7319,Part 1,01,0
+1,13247,,7319,Part 2,02,100
+2,13248,,7319,Tank,03,200
+3,13249,,7320,earth works,01,0
+4,13250,,7320,concrete works,02,1
+5,13251,,7320,masonry works,03,100
+6,13252,,7320,insulation works,04,200
+7,13253,,7320,electro mrchanical work,05,300
+8,13254,,7321,backfilling,01,0
+9,13255,,7321,R.C foundation,02,100
+10,13256,,7321,columns and walls,03,200
+11,13257,,7321,slab,04,300

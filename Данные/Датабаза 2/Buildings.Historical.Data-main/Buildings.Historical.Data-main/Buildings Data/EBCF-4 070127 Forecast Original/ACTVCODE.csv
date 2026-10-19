@@ -1,0 +1,784 @@
+,actv_code_id,parent_actv_code_id,actv_code_type_id,actv_code_name,short_name,seq_num
+0,769855,,20193,General - All Units,00,10
+1,769856,,20193,Offsites,01,20
+2,769857,,20193,Ammonia,02,30
+3,769858,,20193,Utility Plant,03,40
+4,769859,,20193,Corridor,04,50
+5,769860,,20193,Dock / Storage,05,60
+6,769862,,20194,Engineering - HOC,EK,10
+7,769863,,20194,Procurement - HOC,PK,30
+8,769864,,20194,Construction - KBR Site Work,CK,50
+9,769866,,20194,Construction - OCI Site Work,CO,60
+10,769868,,20194,Procurement - OCI,PO,31
+11,769869,,20195,Project Milestones,000,10
+12,769875,,20195,Concrete / Piling,C00,70
+13,769877,,20195,"Concrete Pipe Rack, Structures, Bldgs.,Boxes etc",C20,90
+14,769878,,20195,Foundations for Equipment,C30,100
+15,769879,,20195,Foundations for Steel Pipe Racks,C40,110
+16,769880,,20195,Foundations for Steel Structure or Steel Bldgs,C50,120
+17,769881,,20195,Misc. Foundations,C60,130
+18,769884,,20195,Above Ground Electrical,E00,160
+19,769886,,20195,One Line Diagrams - Overall,EA1,180
+20,769887,,20195,Electrical Load List,EB0,190
+21,769888,,20195,Load Summary,EC1,200
+22,769889,,20195,Substation Building Layouts,ED0,210
+23,769890,,20195,Electrical Tie-in List,EE0,220
+24,769894,,20195,Lighting - Installation Details,EJ1,260
+25,769895,,20195,A/G Power - Installation Details,EK1,270
+26,769898,,20195,Cable & Raceway - Spreadsheet,EM2,300
+27,769904,,20195,Noise & Vibrations,EV3,360
+28,769906,,20195,General & Administrative,G10,380
+29,769907,,20195,Standards & Specificaions,G20,390
+30,769908,,20195,Estimating & Tracking/Trending,G30,400
+31,769909,,20195,"Work Group Specified Activity, Study etc.",G40,410
+32,769911,,20195,Subcontracts & Bulk Marl. Purchase,G60,430
+33,769912,,20195,Field Coordination/Interface,G70,440
+34,769914,,20195,Instrumentation,I00,460
+35,769916,,20195,"Trasmitters, Switches, Recorders",I13,480
+36,769917,,20195,"Guages, Temp. Elements & Accessories",I16,490
+37,769918,,20195,Flow Measuring Elements,I21,500
+38,769919,,20195,Engineered Valves,I22,510
+39,769920,,20195,Electronic Controls Systems,I35,520
+40,769921,,20195,Analyzers,I44,530
+41,769922,,20195,Instrument Location Plans,ID1,540
+42,769923,,20195,Instrument Installation Details,ID2,550
+43,769924,,20195,Instrument Wiring,ID3,560
+44,769925,,20195,Instrumant Loop Diagrams,ID4,570
+45,769930,,20195,Site Prep/Improvements,K00,620
+46,769932,,20195,Site Prep,K10,640
+47,769934,,20195,"Finished Grading, Roads and Paving",K30,660
+48,769937,,20195,Erect Major Equipment,M00,690
+49,769939,,20195,Furnace General Arrangement,MB1,710
+50,769940,,20195,Furnace Steel & Pipe Supports Dwgs.,MB2,720
+51,769941,,20195,Pressure Parts,MB3,730
+52,769942,,20195,Castings,MB4,740
+53,769943,,20195,Refractory-Mechanical Design,MB5,750
+54,769944,,20195,Furnace Equipment,MB6,760
+55,769945,,20195,Flares,MB7,770
+56,769946,,20195,Third Party Furnaces,MB8,780
+57,769947,,20195,API Data Sheets...Performance Summary,MB9,790
+58,769949,,20195,Standard Shell & Tube Exchangers,MC2,810
+59,769950,,20195,Company Proprietary Exchangers,MC3,820
+60,769953,,20195,Compact Heat Exchangers,MC6,850
+61,769955,,20195,Columns and Towers,MD2,870
+62,769956,,20195,Converts/Reactors/Regenerators,MD3,880
+63,769957,,20195,Drums,MD4,890
+64,769958,,20195,Special Vessels,MD5,900
+65,769962,,20195,Field Assembled Tanks,MF3,940
+66,769967,,20195,Compressors,MJ2,990
+67,769968,,20195,Pumps,MJ3,1000
+68,769972,,20195,Generators & Condensers,MJ7,1040
+69,769976,,20195,Packaged Equipment( See Machinery),ML3,1080
+70,769977,,20195,Filtering/Mixing/Drying Equipment,ML4,1090
+71,769978,,20195,Misc Special Equipment,ML5,1100
+72,769980,,20195,Other Special Equipment,ML9,1120
+73,769982,,20195,Waste Water Treating,MU2,1140
+74,769983,,20195,Water Treating Equipment,MU3,1150
+75,769984,,20195,Boilers/Incinerators,MU4,1160
+76,769986,,20195,Cooling Towers,MU6,1180
+77,770000,,20195,A/G Pipe,P00,1320
+78,770001,,20195,Plot Plan,P10,1330
+79,770002,,20195,A/G Plant Layout,P20,1340
+80,770003,,20195,Mat'l. Specs,P30,1350
+81,770005,,20195,A/G Isos,P50,1370
+82,770006,,20195,Pipe Supports,P60,1380
+83,770008,,20195,Tie-In List,P80,1400
+84,770009,,20195,Special Piping Items,P90,1410
+85,770021,,20195,Process Deliverables,R10,1530
+86,770022,,20195,Process Equipment Data,R20,1540
+87,770025,,20195,Steel Pipe Racks,S10,1570
+88,770026,,20195,Steel Structures & Steel Bldgs,S20,1580
+89,770027,,20195,Misc. Steel Supports & Platforms,S30,1590
+90,770029,,20195,U/G Plant Layout,U20,1610
+91,770030,,20195,U/G Electrical,U30,1620
+92,770031,,20195,U/G Piping,U40,1630
+93,770032,,20195,Coatings and Coverings,V00,1640
+94,770033,,20195,Paint,V10,1650
+95,770034,,20195,Insulation,V20,1660
+96,770039,,20195,Systems Equipment Data,Y40,1710
+97,770040,,20195,System Instrument Data,Y50,1720
+98,770041,,20195,Relief Systems,Y60,1730
+99,770042,,20195,Utility Balances,Y70,1740
+100,770043,,20195,Utility Flow Diagrams,Y80,1750
+101,770044,,20195,Special Piping Items,Y90,1760
+102,770045,,20195,P&IDs,YP0,1770
+103,770048,,20195,Electrical Area Classification,ZE0,1800
+104,770051,,20196,Project General Area,000,10
+105,770052,,20196,(01) Offsites - General,010,20
+106,770053,,20196,(01A) Evaporation Pond Area,01A,30
+107,770054,,20196,(01B) Water Storage Area,01B,40
+108,770055,,20196,(01C) Water Treatment Area,01C,50
+109,770056,,20196,(01D) Cooling Tower Area,01D,60
+110,770057,,20196,(01E) Guard House Area,01E,70
+111,770058,,20196,(01F) Mosque Area,01F,80
+112,770059,,20196,(01G) Control Building Area,01G,90
+113,770060,,20196,"(01H) Transformer Area, Substation & Electrical Undergroud",01H,100
+114,770061,,20196,(01J) Offsites Area,01J,110
+115,770062,,20196,(01U) Offsites - Underground,01U,120
+116,770063,,20196,(01Y) Piperack Area,01Y,130
+117,770064,,20196,(02) Ammonia - General,020,140
+118,770065,,20196,(02A) Ammonia Distillation Area,02A,150
+119,770066,,20196,(02B) Purge Gas Recovery Area,02B,160
+120,770067,,20196,(02C) Synthesis Gas & Ammonia Refrig Compr Area,02C,170
+121,770068,,20196,(02D) Ammonia Chiller Area,02D,180
+122,770069,,20196,"(02E) Molecular Sieve Drier, Methanator & Syngas",02E,190
+123,770070,,20196,(02F) HPBFW & Demin Water Area,02F,200
+124,770071,,20196,(02G) Air & Feed Gas Compressors Area,02G,210
+125,770072,,20196,(02H) Primary Reformer Area,02H,220
+126,770073,,20196,(02J) High Temp Shift Converter & Desulferizer,02J,230
+127,770074,,20196,(02K) Benfield Solution Area,02K,240
+128,770075,,20196,"(02L) CO2 Absorber, Stripper & Raw Gas Separator",02L,250
+129,770076,,20196,(02M) Ammonia Synthesis Converter/Startup Heater,02M,260
+130,770077,,20196,(02N) Ammonia Chiller Area,02N,270
+131,770078,,20196,(02P) Deaerator Area,02P,280
+132,770079,,20196,(02Q) Steam Drum Area,02Q,290
+133,770080,,20196,(02U) Ammonia - Underground,02U,300
+134,770081,,20196,(02Y) Piperack (Yard) Area,02Y,310
+135,770082,,20196,(03) Utility Plant - General,030,320
+136,770083,,20196,(03A) Plant & Instrument Air & Nitrogen Area,03A,330
+137,770084,,20196,(03B) Sanitary Treatment & Waste Water Area,03B,340
+138,770085,,20196,(03C) Caustic & Sulfuric Acid Storage Area,03C,350
+139,770086,,20196,(03D) Demin Water Area,03D,360
+140,770087,,20196,(03E) Water Treatment Area,03E,370
+141,770088,,20196,(03F) Package Boiler Area,03F,380
+142,770089,,20196,(03U) Utility Plant - Underground,03U,390
+143,770090,,20196,(03Y) Sleeper Rack,03Y,400
+144,770092,,20196,(04A) Corridor Area,04A,420
+145,770094,,20196,(05) Dock/Storage - General,050,440
+146,770095,,20196,(05A) Ammonia Storage Area,05A,450
+147,770096,,20196,(05B) Dock Area,05B,460
+148,770097,,20196,(05U) Dock/Storage - Underground,05U,470
+149,770099,,20197,General (for all Disciplines),GE,10
+150,770100,,20197,EBIC Client,EB,20
+151,770101,,20197,Major Milestones,YA,30
+152,770102,,20197,Project Management,PM,40
+153,770103,,20197,Project Controls,PC,50
+154,770104,,20197,Planning/Scheduling,PS,60
+155,770105,,20197,Plant Services,CS,70
+156,770106,,20197,Finance,FA,80
+157,770107,,20197,Information Management,IM,90
+158,770108,,20197,Project Engineering,PE,120
+159,770109,,20197,Quality Management,QM,100
+160,770110,,20197,Process,PR,130
+161,770111,,20197,Process (Vessel Analytical),PA,140
+162,770112,,20197,Systems,SY,190
+163,770113,,20197,Office of Chief Engineer,CE,110
+164,770116,,20197,Environmental,EV,180
+165,770118,,20197,Procurement,PK,340
+166,770119,,20197,Furnaces & Flares,MB,240
+167,770120,,20197,Exchangers,MC,250
+168,770121,,20197,Vessels,MD,260
+169,770122,,20197,Tanks,MF,270
+170,770123,,20197,Machinery,MJ,280
+171,770125,,20197,Utility Equipment,MU,300
+172,770127,,20197,Piping Engineering,PI,200
+173,770129,,20197,Civil Design,CV,220
+174,770130,,20197,Architecture,AR,230
+175,770131,,20197,Electrical Design,EL,330
+176,770132,,20197,Control Systems,IC,320
+177,770133,,20197,Home Office Construction,CK,360
+178,770137,,20197,Site Prep,K0,400
+179,770138,,20197,Concrete / Piling,C0,420
+180,770140,,20197,U/G Piping,U4,430
+181,770141,,20197,U/G Electrical,U3,440
+182,770142,,20197,Erect Buildings,A0,450
+183,770143,,20197,Structural Steel,S0,460
+184,770144,,20197,Major Equipment,M0,490
+185,770147,,20197,A/G Pipe,P0,500
+186,770148,,20197,A/G Electrical,E0,530
+187,770149,,20197,Instrument,I0,540
+188,770154,,20197,Mechanical Completion,T0,580
+189,770155,,20197,Paint,V1,560
+190,770156,,20197,Insulation,V2,570
+191,770157,,20198,Summary Purchasing Activities,PK000,6090
+192,770158,,20198,Primary Reformer 101-B,MB101,45
+193,770159,,20198,MB221 101-B Shop Fabrication & Pre-Assembly,MB221,46
+194,770160,,20198,MB311 101-B Radiant/Convection Pressure Materials,MB311,47
+195,770161,,20198,MB312 101-B Radiant Cast Materials,MB312,48
+196,770162,,20198,MB212 101-B Siding,MB212,49
+197,770163,,20198,MB333 101-B Riser Transition Fabrication,MB333,50
+198,770164,,20198,MB340 101-B Finning,MB340,51
+199,770165,,20198,MB410 101-B Cast Tube Suppots,MB410,60
+200,770166,,20198,MB420 101-B Cast Peep Sights,MB420,70
+201,770167,,20198,MB511 101-B Shop Installed Insulation Components,MB511,80
+202,770168,,20198,MB610 101-B Burners,MB610,100
+203,770169,,20198,MB621 101-B I.D. & F.D. Fans,MB621,110
+204,770170,,20198,MB622 101-B Penthouse Circ. Fans,MB622,111
+205,770171,,20198,MB630 101- B Air Preheater,MB630,120
+206,770172,,20198,MB640 101-B Springs & Hangers,MB640,130
+207,770173,,20198,MB660 101-B Dampers & Air Doors,MB660,150
+208,770174,,20198,MB691 101-B Expansion Joints,MB691,160
+209,770175,,20198,MB692 101-B Cat Vacuum Equipment,MB692,170
+210,770176,,20198,MB810 - Start-up Heater 102-B,MB810,180
+211,770177,,20198,MC210 - Carbon Steel S&T Exchangers,MC210,190
+212,770178,,20198,MC230 - Alloy S&T Exchangers,MC230,200
+213,770179,,20198,MC310 - KBR Exchangers Pkg#1 (101/2-C),MC310,210
+214,770180,,20198,MC311 - KBR Exchangers Pkg#2,MC311,220
+215,770181,,20198,MC610 - Double Pipe Exchangers,MC610,240
+216,770182,,20198,MC630 - CO2 Stripper Quench Cooler (107-C),MC630,250
+217,770183,,20198,MD201- CO2 Absorber / Stripper (101/2-E),MD201,270
+218,770184,,20198,MD202 - Ammonia Towers (103/4/5/50-E),MD202,280
+219,770185,,20198,MD301 - Secondary Reformer (103-D),MD301,290
+220,770186,,20198,MD302 - HT & LT Shift Converters (104-D1/D2),MD302,390
+221,770187,,20198,MD303 - Ammonia Synthesis Converter (105-D),MD303,490
+222,770188,,20198,"MD304 - (106-D, 108-DA/DB, 109-DA/DB)",MD304,590
+223,770189,,20198,MD401 - Steam Drum (101-F),MD401,690
+224,770190,,20198,"MD402 - (102-F1/F2, 104-F, 144-F)",MD402,790
+225,770191,,20198,MD403 - Ammonia Separator (106-F),MD403,890
+226,770192,,20198,"MD404 - (107-F, 109-F, 132-F)",MD404,990
+227,770193,,20198,"MD405 - (115-F, 118-F, 156-F, 157-F)",MD405,1090
+228,770194,,20198,MD406 - CO2 Stripper Cond. KO Drum (103-F),MD406,1190
+229,770195,,20198,"MD411 - (2006-F, 2203F, 2204-F, 2205-F)",MD411,1290
+230,770196,,20198,MD501 - Primary Reformer Efflnt Tnsf Line 107-D,MD501,1390
+231,770197,,20198,MF301 - Benefield Solution Storage Tank (114-F),MF301,1490
+232,770198,,20198,"MF302 - (2001-FA/FB, 2002-F, 2401-F)",MF302,1590
+233,770199,,20198,MF311 - Ammonia Storage Tanks (2101/2-F),MF311,1690
+234,770200,,20198,MJ201 - Process Air Compressor (101-J),MJ201,1890
+235,770201,,20198,"MJ202 - Feed Gas,Syngas,Ammonia Refrig Cmprssr",MJ202,1990
+236,770202,,20198,MJ301 - HP BFW Pump (104-J),MJ301,2090
+237,770203,,20198,MJ302 - Lean Solution Pumps (107-JA/B/C),MJ302,2190
+238,770204,,20198,MJ303 - CW Pumps (2202-JA/B/C),MJ303,2290
+239,770205,,20198,MJ304 - MP BFW Pumps (2003-J/JA),MJ304,2390
+240,770206,,20198,MJ305 - ISBL Small & Med Pumps,MJ305,2490
+241,770207,,20198,MJ306 - OSBL Small  & Med Pumps (Incl. 2007-J/JA),MJ306,2590
+242,770208,,20198,"MJ340 - Metering Pumps (130-J/JA, 131-J/JA)",MJ340,2693
+243,770209,,20198,"MJ391 - Fire Water Pumps (2203-J, 2204-J-JA)",MJ391,2790
+244,770210,,20198,MJ730 - Emergency Power Generator (2303-J),MJ730,2890
+245,770211,,20198,"MJ750 - Surface Condensers (101-JTC, 103-JTC)",MJ750,2990
+246,770212,,20198,ML313 - Purge Gas Recovery Unit (160-L),ML313,3090
+247,770213,,20198,ML330 - Ammonia Refrigeration Package (2101-L),ML330,3190
+248,770214,,20198,"ML420 - Cartridge Filters (104-L, 115-L)",ML420,3290
+249,770215,,20198,ML425 - 101-J Air Filter (101-L),ML425,3390
+250,770216,,20198,ML430 - Benfield Solution Mixer (110-L),ML430,3490
+251,770217,,20198,ML440 - Coalescer (161-L),ML440,3590
+252,770218,,20198,ML500 - PAI/IA Compressor Package (2003-L),ML500,3690
+253,770219,,20198,ML512 - Ammonia Loading Arm (2102-L),ML512,3790
+254,770220,,20198,"MU221 - Lift Stations (2402-L, 2403-L)",MU221,3890
+255,770221,,20198,MU222 - Sanitary Treatment Package (2401-U),MU222,3990
+256,770222,,20198,MU292 - Oil Skimmer (2404-L),MU292,4090
+257,770223,,20198,MU300 - Electro Dialysis Reversal Unit (2102-U),MU300,4190
+258,770224,,20198,MU310 - Chemical Injection Pkgs,MU310,4290
+259,770225,,20198,MU330 - Water Treatment Unit (2001-U),MU330,4390
+260,770226,,20198,"MU340 - Chlorination Units (2202-L, 2207-L)",MU340,4490
+261,770227,,20198,MU350 - Deaerator (101-U),MU350,4590
+262,770228,,20198,MU410 - Package Boiler System (2002-U),MU410,4690
+263,770229,,20198,MU611 - Cooling Water Tower (2101-U),MU611,4790
+264,770233,,20198,STRUCTURAL STEEL,B1040,5190
+265,770240,,20198,E0001 - Electrical Powerhouse,E0001,5890
+266,770241,,20198,E0002 - Electrical Transformer,E0002,5990
+267,770243,,20198,E0004 - Electrical UPS With Batteries,E0004,6290
+268,770250,,20198,I2210 - Control Valves,I2210,35
+269,770251,,20198,I2220 - Motor Operated Valves,I2220,37
+270,770252,,20198,I3510 DCS,I3510,39
+271,770253,,20198,I3510-02 DCS (MIV),I3511,40
+272,770255,,20198,EXCHANGERS,P1000,7090
+273,770259,,20198,VESSELS,P1080,7490
+274,770261,,20198,COMPRESSORS,P2020,7690
+275,770262,,20198,PUMPS,P2030,7790
+276,770269,,20199,Primary Reformer,101B,10
+277,770270,,20199,Forced Draft Fan,101BJ1,20
+278,770274,,20199,Combustion Air Preheater,101BL1,60
+279,770276,,20199,Secondary Reformer Waste Heat Boiler,101C,80
+280,770277,,20199,CO2 Absorber,101E,90
+281,770278,,20199,Steam Drum,101F,100
+282,770279,,20199,Air Compressor,101J,110
+283,770291,,20199,Surface Condenser for 101/104-JT,101JTC,230
+284,770292,,20199,Air Filter for 101-J,101L,240
+285,770293,,20199,Deaerator,101U,250
+286,770294,,20199,Startup Heater,102B,260
+287,770296,,20199,CO2 Stripper,102E,280
+288,770297,,20199,Raw Gas Separator,102F1,290
+289,770299,,20199,Feed Gas Compressor,102J,310
+290,770306,,20199,HTS Effluent BFW Preheater/Steam Generator,103C1,380
+291,770308,,20199,Secondary Reformer,103D,400
+292,770309,,20199,LP Ammonia Scrubber,103E,410
+293,770310,,20199,CO2 Stripper Cond. KO Drum,103F,420
+294,770311,,20199,Synthesis Gas Compressor,103J,430
+295,770318,,20199,Surface Condenser for 103-JT,103JTC,500
+296,770319,,20199,High Temperature Shift Converter,104D1,510
+297,770320,,20199,Low Temperature Shift Converter,104D2,520
+298,770321,,20199,HP Ammonia Scrubber,104E,530
+299,770322,,20199,Syn Gas Comp. Suction Drum,104F,540
+300,770323,,20199,HP BFW Pump,104J,550
+301,770327,,20199,Benfield Solution Filter,104L,590
+302,770329,,20199,Ammonia Synthesis Converter,105D,610
+303,770331,,20199,Ammonia Refrigerant Compressor,105J,630
+304,770332,,20199,LTS Effluent/LPBFW Exchanger,106C,640
+305,770333,,20199,Methanator,106D,650
+306,770334,,20199,Ammonia Separator,106F,660
+307,770336,,20199,CO2  Stripper Quench Cooler,107C,680
+308,770337,,20199,Primary Reformer Effluent Transfer Line,107D,690
+309,770338,,20199,Ammonia Letdown Drum,107F,700
+310,770339,,20199,Lean Solution Pump,107JA,710
+311,770346,,20199,Desulfurizer,108DA,780
+312,770352,,20199,Refrigerant Receiver,109F,840
+313,770353,,20199,Benfield Anitfoam Injection System,109L,850
+314,770354,,20199,Lean Solution Cooler,110C,860
+315,770355,,20199,Benfield Solution Mixer,110L,870
+316,770357,,20199,CO2  Stripper Ejector Steam Generator,111C,890
+317,770358,,20199,Benfield Transfer Pump,111J,900
+318,770361,,20199,Condensate Pump for 103-JTC,112J,930
+319,770365,,20199,Condensate Pump for 101-JTC,113J,970
+320,770369,,20199,Methanator Feed/Effluent Exchanger,114C,1010
+321,770370,,20199,Benefield Solution Storage Tank,114F,1020
+322,770372,,20199,Benfield Solution Sump,115F,1040
+323,770375,,20199,Benfield Sump Filter,115L,1070
+324,770376,,20199,CO2  Stripper Reflux Pump,116J,1080
+325,770380,,20199,Benfield Carbon Filter,118F,1120
+326,770381,,20199,Ammonia Unitized Chiller,120C,1130
+327,770386,,20199,Ammonia Reflux Pump,120J,1180
+328,770390,,20199,Ammonia Conv. Feed/Effluent Exchanger,121C,1220
+329,770398,,20199,Ammonia Conv. Effluent/Preheater Exchanger,123C1,1300
+330,770401,,20199,Ammonia Conv. Effluent Cooler,124C,1330
+331,770406,,20199,Refrigerant Condenser,127C,1380
+332,770408,,20199,Syn Gas Compressor Suction Chiller,130C,1400
+333,770409,,20199,Ammonia Distillation Column Feed Pump,130J,1410
+334,770417,,20199,Lean Solution Flash Tank,132F,1490
+335,770422,,20199,Feed Gas Comp. Kickback Cooler,133C,1540
+336,770424,,20199,Feed Gas Knockout Drum,144F,1560
+337,770425,,20199,Process Condensate Stripper,150E,1570
+338,770426,,20199,Steam Blowdown Drum,156F,1580
+339,770427,,20199,Mol Sieve Regen HP Condensate Drum,157F,1590
+340,770428,,20199,Ammonia Distillation Column Reboiler,160C,1600
+341,770429,,20199,Purge Gas Recovery Unit,160L,1610
+342,770430,,20199,Aqua Ammonia Interchanger,161C,1620
+343,770432,,20199,Refrig. Comp. Second Stage Intercooler,167C,1640
+344,770434,,20199,Start-up Cooler,173C,1660
+345,770435,,20199,Stripped Condensate Cooler,174C,1670
+346,770436,,20199,Mol Sieve Regeneration Heater,183C,1680
+347,770437,,20199,Condensate Stripper Feed/Effluent Exchanger,188CA,1690
+348,770440,,20199,Fresh/Firewater/Potable/Service Storage Tank,2001FA,1720
+349,770441,,20199,Fresh/Firewater/Potable/Service Storage Tank,2001FB,1730
+350,770449,,20199,Water Treatment Unit,2001U,1810
+351,770453,,20199,Demineralizer Water Tank,2002F,1850
+352,770454,,20199,Demin. Water Make-Up Pump,2002J,1860
+353,770458,,20199,Package Boiler System,2002U,1900
+354,770460,,20199,Medium Pressure BFW Pump,2003J,1920
+355,770464,,20199,PAI/IA Compressor Package,2003L,1960
+356,770474,,20199,Boiler Blowdown Drum,2006F,2060
+357,770475,,20199,Cooling Water Make-Up Pump,2007J,2070
+358,770479,,20199,Ammonia Loading Pumps,2100JA,2110
+359,770483,,20199,Ammonia Storage Tanks,2101F,2150
+360,770484,,20199,Ammonia Refrigeration Package,2101L,2160
+361,770489,,20199,Cooling Water Tower,2101U,2210
+362,770490,,20199,Ammonia Storage Tanks,2102F,2220
+363,770491,,20199,Ammonia Loading Arm,2102L,2230
+364,770492,,20199,Electro Dialysis Reversal Unit,2102U,2240
+365,770502,,20199,Ammonia Storage Flare,2202B,2340
+366,770504,,20199,Freshwater Cooling Water Pump,2202JA,2360
+367,770511,,20199,Caustic Storage Tank,2203F,2430
+368,770515,,20199,Firewater Pump,2204J,2470
+369,770539,,20199,Emergency Power Generator,2303J,2710
+370,770542,,20199,Wastewater Neutralization Tank,2401F,2740
+371,770543,,20199,Neutralization Tank Pump,2401J,2750
+372,770547,,20199,Sanitary Treatment Package,2401U,2790
+373,770548,,20199,"Sanitary Lift Station, Control Bldg",2402L,2800
+374,770550,,20199,Oil Skimmer,2404L,2820
+375,770552,,20199,Control Building,2601K,2840
+376,770555,,20199,Administration Bldg,2603K,2870
+377,770556,,20199,Warehoue & Main. Bldg,2604K,2880
+378,770561,,20199,Electrical Powerhouse,2610K,2930
+379,770601,,20200,Planning Release,P07,1211
+380,770608,,20200,U/G Electrical Materal Releases,UE,4511
+381,770610,,20200,Electrical Equipment Requistions,ER,4612
+382,770611,,20200,Tagged Instrument Requisitions,IR,4811
+383,770618,,20200,Critical Equipment Inquiry,CE,5511
+384,770619,,20200,Preliminary Equipment Inquiry,PE,5611
+385,770620,,20200,Final Equiment Inquiry,FE,5711
+386,770621,,20200,Non-Critical Equipment Inquiry,NE,5811
+387,770623,,20201,Site Prep,K,12
+388,770624,,20201,Civil / Concrete,C,20
+389,770625,,20201,Underground,U,30
+390,770626,,20201,Steel,S,60
+391,770627,,20201,Buildings,A,40
+392,770628,,20201,Mechanical Equipment,M,70
+393,770630,,20201,Piping,P,90
+394,770631,,20201,Electrical,E,100
+395,770632,,20201,Instruments,I,110
+396,770633,,20201,Coatings and Coverings,V,120
+397,770634,,20201,Fire & Safety,Z,130
+398,770635,,20201,Other,X,150
+399,770636,,20201,Process / Systems,Y,11
+400,770637,,20202,C,C,10
+401,770639,,20202,Risk Ranging - New Item,N,30
+402,770641,,20202,90 DAY ACTIVITIES ADDED3/2/05,X,50
+403,770645,,20203,Check Activity,X,40
+404,770646,,20204,ERW Issued,A,10
+405,770647,,20204,Issue Req / RFQ,B,20
+406,770648,,20204,Receive Bids,C,30
+407,770649,,20204,Technical Evaluation,D,40
+408,770650,,20204,Eval Bids & Issue Recomendation,E,50
+409,770651,,20204,Purchase Order Requisition,F,60
+410,770652,,20204,Interim Award,G,70
+411,770653,,20204,Fab / Exworks,H,80
+412,770654,,20204,Receive Initial Supplier Data,J,90
+413,770655,,20204,Issue Formal Award,K,100
+414,770656,,20204,Receive at Site,L,110
+415,770657,,20204,Production Data,M,120
+416,770658,,20204,Shipping / Transit,N,130
+417,770659,,20194,Engineering - MOC,EM,11
+418,772312,,20202,Engineering Workhour / Qty Loading,WE,16
+419,772313,,20202,Changed Flag,Y,150
+420,776999,,20195,Grounding Plans,EH2,2120
+421,777001,,20195,Lighting - Plans,EJ2,2220
+422,777002,,20195,AG Power - Plans,EK2,2320
+423,777003,,20195,LV Control Schematic & Wiring Diagrams,EN1,2420
+424,777004,,20195,MV Control Schematic & Wiring Diagrams,EN2,2520
+425,777005,,20195,Equipment Interconnections Diagrams,EN3,2620
+426,777008,,20195,Cable & Raceway Schedule,EM1,261
+427,777009,,20195,Fire Protection Equipment Locations,ZF1,1821
+428,777017,,20201,Mechanical Completion / Turnovers,T,140
+429,777018,,20195,One Line Diagrams - Switchgear,EA2,2820
+430,777019,,20195,One Line Diagrams - MCC & Power,EA3,2920
+431,777020,,20195,"Short Circuit, Load Flow, Motor Starting",EC2,3020
+432,777021,,20195,Protective Device Coordination,EC3,3120
+433,777022,,20195,"Conductor Ampacity, Pulling Tensions",EC4,3220
+434,777023,,20195,Cathodic Protection,EG2,3320
+435,777025,,20195,Underground Power Plans,EL2,291
+436,777027,,20195,Prefabricated Assemblies,EF1,40
+437,777031,,20195,Transformers & Reactors,EF5,44
+438,777032,,20195,DC & Battery Backed Systems,EF6,45
+439,782049,,20198,Bulk Purchase - A/G & U/G Piping,PIA11,8090
+440,782092,,20198,Pipe Supports,PTA02,8790
+441,790700,,20198,FIELD ERECTED TANKS,MFSUB,1790
+442,790707,,20198,I1310 - Transmitters,I1310,17
+443,790708,,20198,I2230 - On / Off Valves,I2230,38
+444,790709,,20198,I2110 - Orifice Plates,I2110,27
+445,790710,,20198,I2112 - Ventruis,I2112,28
+446,790711,,20198,I2116- Wedge Flow Meters,I2116,30
+447,790712,,20198,I2115 - Annubars,I2115,29
+448,790713,,20198,I1623 - Multi - Point Thermocouples,I1623,26
+449,790714,,20198,I1616 - Steam Drum Level Gauges,I1616,22
+450,790715,,20198,I1617 - Magnetic Level Gauges,I1617,23
+451,790716,,20198,I1611 - Pressure Gauges,I1611,20
+452,790717,,20198,I1618 - Temperature Gauges,I1618,24
+453,790718,,20198,I1612 - Differential Pressure Gauges,I1612,21
+454,790719,,20198,I1621 - Temperature Elements,I1621,25
+455,790720,,20198,I2121 - Vorterx Meters,I2121,31
+456,790721,,20198,I2127 - Magnetic Flow Meters,I2127,34
+457,790722,,20198,I2122 - Coriolis Meters,I2122,32
+458,790723,,20198,I2124 - Rotometers,I2124,33
+459,838976,,20198,Pressure Relief Valves,PSA08,8390
+460,839138,,20198,Piping Specialty Items,PS000,8290
+461,839141,,20201,General / Milestones,G,10
+462,845339,,20202,Payment Milestone,Z,15
+463,845340,,20200,Payment Milestones,PM,3411
+464,845344,,20200,Heavy Lift Activities,HL,2811
+465,851712,,20198,I3520 - SIS System,I3520,41
+466,851713,,20198,I3542 - ITCC System,I3542,42
+467,851784,,20198,I4440 - Shelters / Analyzers,I4440,44
+468,852613,,20198,I2211 - Everest Severe Service Control Valves,I2211,36
+469,855471,,22137,Engineering,E,1
+470,855472,,22137,Procurement,P,100
+471,855473,,22137,Construction,C,200
+472,855474,,20194,"Commissioning, Startup, & Performance Testing",SC,160
+473,855475,,20194,Client - EBIC,XE,260
+474,855476,,22137,Other,X,300
+475,855491,,22137,"Commissioning, Startup, & Performance Test",S,400
+476,873667,,22659,Bulk Pipe Material Deliveries,01,0
+477,873668,,22659,"Control Building & DSC, SIS, ITCC",02,100
+478,873669,,22659,Ammonia Tank piling,03,200
+479,873670,,22659,Primary Reformer 101-B,04,300
+480,873671,,22659,Package Boiler 2002-U,05,400
+481,873672,,22659,Compressor Deliveries 101/2/3/5-J,06,500
+482,873673,,22659,Notice to Proceed slippage,07,600
+483,873675,,22659,EDR Unit Capabilities,09,800
+484,873676,,22659,Class J Vendor Data,10,900
+485,873677,,22659,EXIM Shipping - US Flag ships,11,1000
+486,873678,,22659,CO2 Stripper 102-E,12,1100
+487,873679,,22659,Equipment Fabrication Lead Times,13,1200
+488,873680,,22659,Ammonia Tank Subcontract,14,1300
+489,873681,,22659,Special Equipment (Vs FMCL),15,1400
+490,873682,,22659,OCI Bulk Procurement/Fabrication,16,1500
+491,873683,,22659,MEC IFC Deliverable Schedule,17,1600
+492,873686,,22659,Performance Test Schedule,20,1900
+493,873687,,22659,Pipe Installation Durations,21,2000
+494,873688,,22659,Jetty Basin 3 vs Basin 1,22,2100
+495,873689,,22659,Area 02M Hydro testing,23,2200
+496,879744,,20198,Product Line Pre-insulated Piping,PIA41,8190
+497,896583,,20200,Supersketches,P01,611
+498,901864,,20200,Plant Layout Model,P02,711
+499,901865,,20200,Model Review Mtg,P03,811
+500,901866,,20200,IDP - Plant Layout,P05,1011
+501,901867,,20200,Detail Model Development,P08,1311
+502,901868,,20200,IDP - Detail Design,P11,1611
+503,901869,,20200,Issue Isos IFC,P13,1811
+504,929606,,20200,Preliminary Drawings for Supersketch,P00,511
+505,929650,,23545,Civil / Stuct Path of Construction,1,0
+506,929651,,23545,Civil / Stuct Path of Construction,2,100
+507,929652,,23545,Civil / Stuct Path of Construction,3,200
+508,929653,,23545,Civil / Stuct Path of Construction,4,300
+509,929654,,23545,Civil / Stuct Path of Construction,5,400
+510,929655,,23545,Civil / Stuct Path of Construction,6,500
+511,929656,,23545,Civil / Stuct Path of Construction,7,600
+512,929657,,23545,Civil / Stuct Path of Construction,8,700
+513,929658,,23545,Civil / Stuct Path of Construction,9,800
+514,929659,,23545,Civil / Stuct Path of Construction,10,900
+515,929660,,23545,Civil / Stuct Path of Construction,11,1000
+516,929661,,23545,Civil / Stuct Path of Construction,12,1100
+517,929662,,23545,Civil / Stuct Path of Construction,13,1200
+518,929663,,23545,Civil / Stuct Path of Construction,14,1300
+519,929664,,23545,Civil / Stuct Path of Construction,15,1400
+520,929665,,23545,Civil / Stuct Path of Construction,16,1500
+521,929666,,23545,Civil / Stuct Path of Construction,17,1600
+522,929667,,23545,Civil / Stuct Path of Construction,18,1700
+523,929668,,23545,Civil / Stuct Path of Construction,19,1800
+524,929669,,23545,Civil / Stuct Path of Construction,20,1900
+525,929670,,23545,Civil / Stuct Path of Construction,21,2000
+526,929671,,23545,Civil / Stuct Path of Construction,22,2100
+527,929672,,23545,Civil / Stuct Path of Construction,23,2200
+528,929673,,23545,Civil / Stuct Path of Construction,24,2300
+529,929674,,23545,Civil / Stuct Path of Construction,25,2400
+530,929675,,23545,Civil / Stuct Path of Construction,26,2500
+531,929676,,23545,Civil / Stuct Path of Construction,27,2600
+532,929677,,23545,Civil / Stuct Path of Construction,28,2700
+533,929678,,23545,Civil / Stuct Path of Construction,29,2800
+534,929679,,23545,Civil / Stuct Path of Construction,30,2900
+535,929680,,23545,Civil / Stuct Path of Construction,31,3000
+536,929681,,23545,Civil / Stuct Path of Construction,32,3100
+537,929682,,23545,Civil / Stuct Path of Construction,33,3200
+538,929683,,23545,Civil / Stuct Path of Construction,34,3300
+539,929684,,23545,Civil / Stuct Path of Construction,35,3400
+540,929685,,23545,Civil / Stuct Path of Construction,36,3500
+541,929686,,23545,Civil / Stuct Path of Construction,37,3600
+542,929687,,23545,Civil / Stuct Path of Construction,38,3700
+543,929688,,23545,Civil / Stuct Path of Construction,39,3800
+544,929689,,23545,Civil / Stuct Path of Construction,40,3900
+545,929690,,23545,Civil / Stuct Path of Construction,41,4000
+546,929700,,23547,Piping Path of Construction,1,0
+547,929701,,23547,Piping Path of Construction,2,100
+548,929702,,23547,Piping Path of Construction,3,200
+549,929703,,23547,Piping Path of Construction,4,300
+550,929704,,23547,Piping Path of Construction,5,400
+551,929705,,23547,Piping Path of Construction,6,500
+552,929706,,23547,Piping Path of Construction,7,600
+553,929707,,23547,Piping Path of Construction,8,700
+554,929708,,23547,Piping Path of Construction,9,800
+555,929709,,23547,Piping Path of Construction,10,900
+556,929710,,23547,Piping Path of Construction,11,1000
+557,929711,,23547,Piping Path of Construction,12,1100
+558,929712,,23547,Piping Path of Construction,13,1200
+559,929713,,23547,Piping Path of Construction,14,1300
+560,929714,,23547,Piping Path of Construction,15,1400
+561,929715,,23547,Piping Path of Construction,16,1500
+562,929716,,23547,Piping Path of Construction,17,1600
+563,929717,,23547,Piping Path of Construction,18,1700
+564,929718,,23547,Piping Path of Construction,19,1800
+565,929719,,23547,Piping Path of Construction,20,1900
+566,929720,,23547,Piping Path of Construction,21,2000
+567,929721,,23547,Piping Path of Construction,22,2100
+568,929722,,23547,Piping Path of Construction,23,2200
+569,929723,,23547,Piping Path of Construction,24,2300
+570,929724,,23547,Piping Path of Construction,25,2400
+571,929725,,23547,Piping Path of Construction,26,2500
+572,929726,,23547,Piping Path of Construction,27,2600
+573,929727,,23547,Piping Path of Construction,28,2700
+574,929728,,23547,Piping Path of Construction,29,2800
+575,929729,,23547,Piping Path of Construction,30,2900
+576,929730,,23547,Piping Path of Construction,31,3000
+577,929731,,23547,Piping Path of Construction,32,3100
+578,929732,,23547,Piping Path of Construction,33,3200
+579,929733,,23547,Piping Path of Construction,34,3300
+580,929734,,23547,Piping Path of Construction,35,3400
+581,929735,,23547,Piping Path of Construction,36,3500
+582,929736,,23547,Piping Path of Construction,37,3600
+583,929737,,23547,Piping Path of Construction,38,3700
+584,929738,,23547,Piping Path of Construction,39,3800
+585,929739,,23547,Piping Path of Construction,40,3900
+586,929740,,23547,Piping Path of Construction,41,4000
+587,935476,,20197,Fire Protection,FP,170
+588,960183,,20200,Planning Vendor Data,P15,2011
+589,960184,,20200,Production Vendor Data,P16,2111
+590,965575,,20200,P&IDs Issue - ICA,Y1,2911
+591,965576,,20200,P&IDs Issue - IPL,Y2,3111
+592,965577,,20200,P&IDs Issue - IFD,Y3,3211
+593,965578,,20200,P&IDs Issue - IFC,Y4,3311
+594,965579,,20200,P&IDs Issue - IDR,Y0,3011
+595,1064368,,25995,Ammonia - HOC,E1B1,0
+596,1064369,,25995,"Utilities, O/S, Doc, Corridor - HOC",E2B2,100
+597,1064370,,25995,Construction,E3B3,200
+598,1064371,,25995,Ammonia - MOC,E4B4,300
+599,1064372,,25995,"Utilities, O/S, Doc, Corridor - MOC",E5B5,400
+600,1101878,,20200,Plot Plans,P17,2211
+601,1101879,,20200,Misc.,P20,2511
+602,1101880,,20200,Nozzle Releases,P19,2411
+603,1101881,,20200,Pipe Supports,P14,1911
+604,1118946,,20200,Model Comment Resolution Approval,P06,1111
+605,1131895,,20203,Project Review Schedule,Y,26
+606,1131896,,27406,"Copy Areas - 02A, 02B, 02E, 02H, 02J, 02K",Copy,0
+607,1131897,,27406,"Almost Copy Areas - 02M, 02N, 02P, 02Q",A Copy,100
+608,1132545,,27406,"New Areas - 02C, 02D, 02F, 02G, 02L, 02Y",NEW,200
+609,1237845,,20198,MD305 - Mercury Removal Bed,MD305,260
+610,1248396,,20200,Field Fabricated Tanks,T,10
+611,1286142,,20198,MC312 - Exchangers 120-C & 121-C,MC312,230
+612,1286143,,20198,PR201 - KAAP Equipment Catalyst,PR201,8490
+613,1351551,,32106,Benfield Sewer (CB),CB,6
+614,1351552,,32106,Oily Water Sewer (OW),OW,600
+615,1351553,,32106,Process Water Sewer (PS),PS,800
+616,1351554,,32106,Hot Outfall Sewer (OH),OH,400
+617,1351555,,32106,Outfall Sewer (OS),OS,500
+618,1351556,,32106,Sanitary Sewer (SS),SS,1000
+619,1351557,,32106,Common - Ammonia Underground,02U,1
+620,1351558,,32106,Firewater (FW),FW,300
+621,1351559,,32106,Common - Utility Plant Underground,03U,2
+622,1351560,,32106,Cooling Water (CW),CW,200
+623,1351561,,32106,Common - Offsites Underground,01U,0
+624,1351562,,32106,Common - Corridor Underground,04U,3
+625,1351563,,32106,Common - Dock/Storage Underground,05U,4
+626,1351564,,32106,Waste Water (WW),WW,1100
+627,1351565,,32106,Acid Sewer (AS),AS,5
+628,1351566,,32106,Caustic Sewer (CS),CS,100
+629,1351568,,32106,Plant Air (PA),PA,700
+630,1351569,,32106,Potable Water (PW),PW,900
+631,1403357,,20200,Conceptual Model Steel,C2,311
+632,1403358,,20200,Conceptual Model Foundations,C3,111
+633,1403359,,20200,Detail Model & IFC Dwgs - Steel,C4,411
+634,1403360,,20200,Detail Model & IFC Dwgs - Foundations,C5,211
+635,1466543,,20198,MJ307 - Ammonia Loading Pumps,MJ307,2690
+636,1502751,,20200,Model Review Comment Resolution,P04,911
+637,1502752,,20200,Detail OP's & Services Model Review,P09,1411
+638,1502753,,20200,OP's & Serv. Model Review Comment Resolution,P10,1511
+639,1502754,,20200,OP's & Serv. Model Comment Resolution Approval,P12,1711
+640,1556988,,20202,Vendor Data Constrained,VD,14
+641,1625383,,20200,Equipment Location Plans,P18,2311
+642,1648815,,20199,Vendor Data,X,12
+643,1648816,,20198,MJ308 - Waste Water Sump Pumps,MJ308,2691
+644,1648817,,20198,ML900 - Evaporation Pond Spray Nozzles,ML900,2692
+645,1648818,,20198,MU322 - Cooling Water Filter & Clarifier,MU322,4291
+646,1650732,,20198,MU225 - Lift Station,MU225,3991
+647,1650733,,20198,ML593 - Flash Tank Ejectors,ML593,3791
+648,1650734,,20198,ML501 - Storage Area Air Compressor Package,ML501,3691
+649,1650735,,20198,MJ392 - Fire Water Pumps,MJ392,2791
+650,1650736,,20198,MJ731 - Emergency Generator Package,MJ731,2891
+651,1650737,,20198,MB710 - Storage Area Flare & Flame Font Generator,MB710,171
+652,1650738,,20198,MU311 - Bulk Chemical Storage Tanks,MU311,140
+653,1650739,,20198,MF312 - Field Erected Tank,MF312,16
+654,1653232,,20199,Water Tank,2105F,2261
+655,1653233,,20199,Arch Burners,101BA,13
+656,1670933,,20198,E0008 - 540-SB Substation Equipment,E0008,6591
+657,1670934,,20198,E0009 - Electrical Heat Tracing,E0009,6592
+658,1685710,,20200,Electrical Drawings - IFC,E1,4613
+659,1685711,,20200,Instrumentation Drawings - IFC,I1,4711
+660,1685712,,20198,General,Gen,10
+661,1685714,,20198,Foundation Materials,Found,15
+662,1685715,,20201,Furnaces & Flares,MB,71
+663,1685716,,20201,Exchangers,MC,72
+664,1685717,,20201,Towers & Vessels,MD,73
+665,1685718,,20201,Drums & Tanks,MF,74
+666,1685719,,20201,Rotating Equipment,MJ,75
+667,1685720,,20201,Special Equipment,ML,76
+668,1685721,,20201,Utility Equipment,MU,77
+669,1709872,,20195,Instrument Index,ID5,571
+670,1756456,,40594,Bulk Materials - Early Purchase of Correct Qty's Meeting Schedule,02,100
+671,1756457,,40594,Late Buys - Cost & Expedited Deliveries,03,200
+672,1756459,,40594,Working with SPDC - Getting Information,05A,400
+673,1756463,,40594,Receipt of Vendor Data & Timely Reviews by Engineering,06,800
+674,1765826,,20202,Risk Ranging - Remaining Dur. Chg. Due to Ranging,CD,13
+675,1823993,,20194,Construction - DSD Tank Erection,CT,61
+676,1843458,,20202,WBS Activity for Construction Manhours,WC,17
+677,2009566,,20202,Project Status Review Activity,PS,250
+678,2091798,,20200,Field Fabricated Tanks (Associated Activities),T1,16
+679,2259287,,52399,Critical Activities - 0 Days Float or Less,C1,0
+680,2259289,,52399,Critical Activities - > 0 Days & < 5 Days Float,C2,100
+681,2259290,,52399,Critical Activities - > 5 Days & < 20 Days Float,C3,200
+682,2259291,,52399,Critical Activities - > 20  Days & < 30 Days Float,C4,300
+683,2259292,,52399,Critical Activities - >30  Days & < 40 Days Float,C5,400
+684,2395685,,20202,Heavy Lift (X-Works & Transport),HD,12
+685,2405004,,20203,02Y Pipe Rack Critical Activities,2Y,22
+686,2701924,,20203,Ammonia Storage (KBR),S1,20
+687,2701943,,20203,Ammonia Storage (EBIC),S2,21
+688,3098222,,20195,Major Foundations (Eqp & Structural),1C1,12
+689,3098223,,20195,SB Pipe Erection,1P3,24
+690,3098224,,20195,Misc. Foundations,1C2,13
+691,3098225,,20195,Paving,1C3,14
+692,3098226,,20195,Structural Steel,1S1,19
+693,3098227,,20195,Misc. Steel,1S2,20
+694,3098228,,20195,LB Pipe Erection,1P2,23
+695,3098229,,20195,Punchlist / Test Pipe,1P4,25
+696,3098230,,20195,"Power/Control JB's , Stands, Tray & Cable",1E1,27
+697,3098231,,20195,"Lighting JB's, Stands, Tray, & Cable",1E2,28
+698,3098243,,20195,Lighting Fixture Installation/Termination,1E3,29
+699,3098246,,20195,"Instrument JB's, Field Instr, Tray, Cable",1I1,30
+700,3098250,,20195,Install In Line Instruments,1I2,31
+701,3098251,,20195,Continuity Testing,1I3,32
+702,3098253,,20195,Paint Fabricated Pipe Spools,1V1,33
+703,3098256,,20195,Paint Touch-up - Piping,1V2,34
+704,3098257,,20195,Paint Touch-up - Equipment,1V3,35
+705,3098258,,20195,Insulate - Equipment,1V5,36
+706,3098259,,20195,Insulate - Pipe,1V6,37
+707,3098260,,20195,Mechanical Completion,1T1,38
+708,3098261,,20195,A/G Pipe Spool Fabrication,1P1,22
+709,3098263,,20195,Erect Equipment,1M1,21
+710,3098264,,20195,U/G Pipe Spool Fabrication,1U1,16
+711,3098265,,20195,U/G Piping Installation,1U2,17
+712,3098266,,20195,U/G Earthing Installation,1U3,18
+713,3221455,,20195,Buildings,1A1,11
+714,3221457,,20195,Site Prep,1K0,39
+715,3221458,,20195,Electrical,1E0,26
+716,3624238,,20196,(01K) Run Off Area,01K,111
+717,3661790,,20203,Sort 1,L1,14
+718,3661791,,20203,Sort 2,L2,15
+719,3661792,,20203,Sort 3,L3,16
+720,3661793,,20203,Sort 4,L4,17
+721,3661794,,20203,Sort 5,L5,18
+722,3698471,,84082,LT,LT,1000
+723,3698472,,84082,GW,GW,700
+724,3698473,,84082,Siemens,S,1800
+725,3698474,,84082,Graham,G,600
+726,3698475,,84082,Ecodyne,E,303
+727,3698476,,84082,Tulsa Htr.,T,2100
+728,3698477,,84082,JW,JW,800
+729,3698478,,84082,FW,FW,503
+730,3698479,,84082,MHI,MHI,1400
+731,3698480,,84082,Kruger,K,900
+732,3698481,,84082,S & T,ST,2000
+733,3698482,,84082,EEX,EEX,304
+734,3698483,,84082,Alco,A,0
+735,3698484,,84082,Rentech,R,1701
+736,3698485,,84082,Zeeco,Z,2600
+737,3698486,,84082,Casco,C,202
+738,3698487,,84082,Brazos,B,101
+739,3698488,,84082,Wisc. C.,W,2300
+740,3698489,,84082,P2S,P,1500
+741,3698490,,84082,Escoa,ES,500
+742,3698491,,84082,MetalTek,M,1100
+743,3698492,,84082,Mabry,MA,1200
+744,3698493,,84082,Thorpe,TH,2200
+745,3698494,,84082,Callidus,CA,203
+746,3698495,,84082,Clarage,CL,204
+747,3698496,,84082,Eldridge,EL,400
+748,3698497,,84082,BD Heat,BD,200
+749,3698498,,84082,Piping Tech,PI,1600
+750,3698499,,84082,Walhco,WA,2400
+751,3698500,,84082,ACFM,AC,100
+752,3698501,,84082,U.S.Filter,U,2500
+753,3698502,,84082,Marley,MAR,1300
+754,3698503,,84082,G.E.Ionics,GE,602
+755,3698504,,84082,S & D,SD,1900
+756,3698505,,84082,Egglehof,EG,305
+757,3698506,,84082,Flowserve,F,501
+758,3698507,,84082,Sulzer,SU,2001
+759,3698508,,84082,Goulds,GO,603
+760,3698509,,84082,BranLubbe,BR,201
+761,3698510,,84082,PPP,PPP,1700
+762,3698511,,84082,So.Plains,SO,1903
+763,3698512,,84082,Sharpe Mixer,SH,1901
+764,3698513,,84082,Costain,CO,300
+765,3698514,,84082,Danmar,D,301
+766,3698515,,84082,Toromont,TO,2201
+767,3698516,,84082,FMC,FM,502
+768,3698517,,84082,Datum,DA,302
+769,3698518,,84082,Graver,GR,604
+770,3698519,,84082,G.E.Betz,GB,601
+771,3698520,,84082,Snow Mach,SN,1902
+772,3698521,,84082,Oil Skimmer,OS,1401
+773,3698522,,84083,India,IND,200
+774,3698523,,84083,Houston,HOU,100
+775,3698524,,84083,Germany,GER,0
+776,3698525,,84083,New York,NY,400
+777,3698526,,84083,USA,USA,600
+778,3698527,,84083,Japan,JAP,300
+779,3698528,,84083,Italy,ITA,201
+780,3698529,,84083,Seattle,SEAT,401
+781,3698530,,84083,UK / Germany,U/G,402
+782,3698531,,84083,USA / Euro,U/E,500

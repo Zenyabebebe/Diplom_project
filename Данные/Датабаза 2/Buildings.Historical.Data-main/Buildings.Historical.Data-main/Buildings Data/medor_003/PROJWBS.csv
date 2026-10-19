@@ -1,0 +1,13 @@
+,wbs_id,proj_id,obs_id,seq_num,est_wt,proj_node_flag,sum_data_flag,status_code,wbs_short_name,wbs_name,phase_id,parent_wbs_id,ev_user_pct,ev_etc_user_value,orig_cost,indep_remain_total_cost,ann_dscnt_rate_pct,dscnt_period_type,indep_remain_work_qty,anticip_start_date,anticip_end_date,ev_compute_type,ev_etc_compute_type,guid,tmpl_guid,plan_open_state
+0,10680,766,648,100,1,Y,N,WS_Open,M.D,Medor Adminstration Building,,10170,4,0.88,0,0,,,,,,EC_Cmp_pct,EE_Rem_hr,dCGGKJGMKU+HXSF3tCqBEw,,
+1,10682,766,648,0,1,N,N,WS_Open,1,general,,10680,4,0.88,0,0,,,,,,EC_Cmp_pct,EE_Rem_hr,Zr5uSBb15EKC5zq7d38oPw,,
+2,10683,766,648,2,1,N,N,WS_Open,2,skeleton,,10680,4,0.88,0,0,,,,,,EC_Cmp_pct,EE_Rem_hr,TbRLghNJg0qOgQakRLK4PQ,,
+3,10685,766,648,3,1,N,N,WS_Open,1,ground floor,,10683,4,0.88,0,0,,,,,,EC_Cmp_pct,EE_Rem_hr,gw0qYbSmT0yd/WVVhEMhkg,,
+4,10686,766,648,3,1,N,N,WS_Open,2,1st floor,,10683,4,0.88,0,0,,,,,,EC_Cmp_pct,EE_Rem_hr,F58h9j81UUapkJX5pdDXwQ,,
+5,10687,766,648,3,1,N,N,WS_Open,3,2nd floor,,10683,4,0.88,0,0,,,,,,EC_Cmp_pct,EE_Rem_hr,IPAYb8hzIUS3FCwc94l5Gg,,
+6,10688,766,648,3,1,N,N,WS_Open,4,3rd floor,,10683,4,0.88,0,0,,,,,,EC_Cmp_pct,EE_Rem_hr,TG9BDY/obUOhSQyo/iZtFg,,
+7,10689,766,648,3,1,N,N,WS_Open,5,4th floor,,10683,4,0.88,0,0,,,,,,EC_Cmp_pct,EE_Rem_hr,ig5CzQGVxEO5pbxNAcjCIA,,
+8,10690,766,648,3,1,N,N,WS_Open,6,5th floor,,10683,4,0.88,0,0,,,,,,EC_Cmp_pct,EE_Rem_hr,nwj8VWx51kWMSZiFvDgRRw,,
+9,10691,766,648,3,1,N,N,WS_Open,7,6th floor,,10683,4,0.88,0,0,,,,,,EC_Cmp_pct,EE_Rem_hr,2gYfeCSrCUelnsnbu4+pfQ,,
+10,10692,766,648,1,1,N,N,WS_Open,3,engineering,,10680,4,0.88,0,0,,,,,,EC_Cmp_pct,EE_Rem_hr,f3uMmf6gQEiid7kYBsAlIQ,,
+11,10706,766,648,102,1,N,N,WS_Open,8,Roof floor,,10683,4,0.88,0,0,,,,,,EC_Cmp_pct,EE_Rem_hr,HORwAQI+3Uukf0Mp1t1SqA,,

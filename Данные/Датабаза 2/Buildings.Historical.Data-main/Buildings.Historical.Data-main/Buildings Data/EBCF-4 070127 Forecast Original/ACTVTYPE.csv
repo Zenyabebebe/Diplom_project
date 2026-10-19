@@ -1,0 +1,24 @@
+,actv_code_type_id,actv_short_len,seq_num,actv_code_type,proj_id,wbs_id,actv_code_type_scope
+0,20193,2,50602,EB02 - UNIT,,,AS_Global
+1,20194,2,50502,EB01 - RESP,,,AS_Global
+2,20195,3,51002,EB06 - WORK OP,,,AS_Global
+3,20196,3,50702,EB03 - AREA,,,AS_Global
+4,20197,2,50902,EB05 - DISCIPLINE,,,AS_Global
+5,20198,5,51102,EB07 - REQN,,,AS_Global
+6,20199,10,51202,EB08 - TAG,,,AS_Global
+7,20200,3,51402,EB10 - KEY,,,AS_Global
+8,20201,2,50802,EB04 - CLASS,,,AS_Global
+9,20202,2,51502,EB11 - FLAG,,,AS_Global
+10,20203,2,51602,EB12 - TEMP,,,AS_Global
+11,20204,2,51302,EB09 - IPMS,,,AS_Global
+12,22137,3,50402,EB00 - EPC,,,AS_Global
+13,22659,2,51802,EB14 - RISK,,,AS_Global
+14,23545,2,51902,EB15 - Civil / U/G Path of Construction,,,AS_Global
+15,23547,2,52002,EB16 - Piping  Path of Construction,,,AS_Global
+16,25995,7,52102,EB17 - Suffix,,,AS_Global
+17,27406,7,52202,EB18 - Grouping,,,AS_Global
+18,32106,7,52302,EB19 - System,,,AS_Global
+19,40594,7,52502,EB21 - Rev 2 Risk Associations,,,AS_Global
+20,52399,7,52602,EB22 - Critical Actvities,,,AS_Global
+21,84082,16,0,Vendor,14517,,AS_Project
+22,84083,7,100,Ship From,14517,,AS_Project

@@ -1,0 +1,3 @@
+,actv_code_type_id,actv_short_len,seq_num,actv_code_type,proj_id,wbs_id,actv_code_type_scope
+0,9599,5,16481,Global Commodity Code,,,AS_Global
+1,9600,7,16482,Global Activity Code,,,AS_Global

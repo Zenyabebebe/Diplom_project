@@ -1,0 +1,12 @@
+,rsrc_id,role_id,skill_level,role_short_name,role_name,rsrc_short_name,rsrc_name,rsrc_type,rsrc_role_id
+0,1340,373,,con,Construction Roles,V,Insulation - Construction,RT_Labor,
+1,1341,373,,con,Construction Roles,I,Instrumentation and Control - Construction,RT_Labor,
+2,1342,373,,con,Construction Roles,P,Aboveground Pipe - Construction,RT_Labor,
+3,1343,373,,con,Construction Roles,E,Aboveground Electrical - Construction,RT_Labor,
+4,1347,373,,con,Construction Roles,M,Major Equipment - Construction,RT_Labor,
+5,1348,373,,con,Construction Roles,U,U/G Piping - Construction,RT_Labor,
+6,1351,373,,con,Construction Roles,K,Site Preparation/ Other Civil - Construction,RT_Labor,
+7,1352,373,,con,Construction Roles,A,Architectural - Construction,RT_Labor,
+8,1353,373,,con,Construction Roles,S,Structural Steel - Construction,RT_Labor,
+9,1355,373,,con,Construction Roles,C,Concrete and Paving - Construction,RT_Labor,
+10,4591,373,,con,Construction Roles,T,Precommissioning/ Commissioning,RT_Labor,

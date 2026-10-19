@@ -1,0 +1,2 @@
+,issue_id,obs_id,proj_id,rsrc_id,task_id,thresh_id,thresh_parm_id,track_view_id,wbs_id,add_by_name,issue_name,resolv_date,add_date,priority_type,status_code,base_proj_id,hi_parm_value,issue_value,lo_parm_value,issue_notes
+0,2266,565,923,,,,,,10588,admin,(New Issue),,2011-10-10 15:41,PT_Normal,IS_Open,,,,,

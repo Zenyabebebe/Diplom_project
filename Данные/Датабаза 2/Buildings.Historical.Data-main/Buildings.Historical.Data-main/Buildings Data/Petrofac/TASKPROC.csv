@@ -1,0 +1,138 @@
+,proc_id,task_id,proj_id,seq_num,proc_name,complete_flag,proc_wt,complete_pct,proc_descr
+0,32562,101718,4512,0,Purchase Portacabins Locally,N,1,0,<HTML><BODY></BODY></HTML>
+1,32563,101718,4512,0,Deliever to MPS,N,1,0,
+2,32564,101721,4512,0,Delievery of CP System to site,N,1,0,<HTML><BODY></BODY></HTML>
+3,32565,101721,4512,0,Installation after complete internal tank painting,N,1,0,
+4,32566,101727,4512,100,Delievery of Instrumentation to site,N,1,0,<HTML><BODY></BODY></HTML>
+5,32567,101727,4512,101,Installation,N,1,0,<HTML><BODY></BODY></HTML>
+6,32568,101766,4512,0,Shell #1,N,1,0,
+7,32569,101766,4512,1,Shell #2,N,1,0,
+8,32570,101766,4512,2,Shell #3,N,1,0,
+9,32571,101766,4512,3,Shell #4,N,1,0,
+10,32572,101770,4512,0,Drawings Recieved from Supplier,N,1,0,
+11,32573,101770,4512,0,Submission/Approval from CLient,N,1,0,
+12,32574,101770,4512,0,Roof Fabrication,N,1,0,
+13,32575,101770,4512,0,Shipping of Fabricated Material,N,1,0,
+14,32576,101770,4512,0,Delievery to Alzamil factory,N,1,0,
+15,32577,101770,4512,0,Delievey to MA'aden Site,N,1,0,
+16,32578,101872,4512,0,Soil Contractor Mobilization,N,1,0,
+17,32579,101872,4512,0,Start of work,N,1,0,
+18,32580,101872,4512,0,Finishing & Moving to 2nd Tank,N,1,0,
+19,32581,101874,4512,0,Recieving the Comments from client,N,1,0,<HTML><BODY></BODY></HTML>
+20,32582,101874,4512,0,Incooperating the Comments,N,1,0,<HTML><BODY></BODY></HTML>
+21,32583,101876,4512,100,Recieving the Comments from client,N,1,0,<HTML><BODY></BODY></HTML>
+22,32584,101876,4512,101,Incooperating the Comments,N,1,0,<HTML><BODY></BODY></HTML>
+23,32585,101877,4512,0,Receving Final Approval from client,N,1,0,
+24,32586,101877,4512,0,Preparing the Drawings to IFC,N,1,0,<HTML><BODY></BODY></HTML>
+25,32587,101886,4512,0,Soil Contractor Mobilization,N,1,0,
+26,32588,101886,4512,0,Start of work,N,1,0,
+27,32589,101886,4512,0,Finishing & Moving to 2nd Tank,N,1,0,
+28,32590,101888,4512,0,Recieving the Comments from client,N,1,0,<HTML><BODY></BODY></HTML>
+29,32591,101888,4512,0,Incooperating the Comments,N,1,0,<HTML><BODY></BODY></HTML>
+30,32592,101890,4512,100,Recieving the Comments from client,N,1,0,<HTML><BODY></BODY></HTML>
+31,32593,101890,4512,101,Incooperating the Comments,N,1,0,<HTML><BODY></BODY></HTML>
+32,32594,101891,4512,0,Receving Final Approval from client,N,1,0,
+33,32595,101891,4512,0,Preparing the Drawings to IFC,N,1,0,<HTML><BODY></BODY></HTML>
+34,32596,101914,4512,100,Delievery of Instrumentation to site,N,1,0,<HTML><BODY></BODY></HTML>
+35,32597,101914,4512,101,Installation,N,1,0,<HTML><BODY></BODY></HTML>
+36,32598,101937,4512,0,Purchase Portacabins Locally,N,1,0,<HTML><BODY></BODY></HTML>
+37,32599,101937,4512,0,Deliever to MPS,N,1,0,
+38,32600,101940,4512,0,Delievery of CP System to site,N,1,0,<HTML><BODY></BODY></HTML>
+39,32601,101940,4512,0,Installation after complete internal tank painting,N,1,0,
+40,32602,101949,4512,0,Shell #1,N,1,0,
+41,32603,101949,4512,1,Shell #2,N,1,0,
+42,32604,101949,4512,2,Shell #3,N,1,0,
+43,32605,101949,4512,3,Shell #4,N,1,0,
+44,32606,101953,4512,0,Drawings Recieved from Supplier,N,1,0,
+45,32607,101953,4512,0,Submission/Approval from CLient,N,1,0,
+46,32608,101953,4512,0,Roof Fabrication,N,1,0,
+47,32609,101953,4512,0,Shipping of Fabricated Material,N,1,0,
+48,32610,101953,4512,0,Delievery to Alzamil factory,N,1,0,
+49,32611,101953,4512,0,Delievey to MA'aden Site,N,1,0,
+50,32612,102056,4512,0,Recieving the Comments from client,N,1,0,<HTML><BODY></BODY></HTML>
+51,32613,102056,4512,0,Incooperating the Comments,N,1,0,<HTML><BODY></BODY></HTML>
+52,32614,102058,4512,100,Recieving the Comments from client,N,1,0,<HTML><BODY></BODY></HTML>
+53,32615,102058,4512,101,Incooperating the Comments,N,1,0,<HTML><BODY></BODY></HTML>
+54,32616,102059,4512,0,Receving Final Approval from client,N,1,0,
+55,32617,102059,4512,0,Preparing the Drawings to IFC,N,1,0,<HTML><BODY></BODY></HTML>
+56,32618,102060,4512,0,Soil Contractor Mobilization,N,1,0,<HTML><BODY></BODY></HTML>
+57,32619,102060,4512,0,Start of work,N,1,0,
+58,32620,102060,4512,0,Finishing & Moving to 2nd Tank,N,1,0,
+59,32621,102085,4512,0,Purchase Portacabins Locally,N,1,0,<HTML><BODY></BODY></HTML>
+60,32622,102085,4512,0,Deliever to MPS,N,1,0,
+61,32623,102088,4512,0,Delievery of CP System to site,N,1,0,<HTML><BODY></BODY></HTML>
+62,32624,102088,4512,0,Installation after complete internal tank painting,N,1,0,
+63,32625,102113,4512,100,Delievery of Instrumentation to site,N,1,0,<HTML><BODY></BODY></HTML>
+64,32626,102113,4512,101,Installation,N,1,0,<HTML><BODY></BODY></HTML>
+65,32627,102116,4512,0,Shell #1,N,1,0,<HTML><BODY></BODY></HTML>
+66,32628,102116,4512,1,Shell #2,N,1,0,
+67,32629,102116,4512,2,Shell #3,N,1,0,
+68,32630,102116,4512,3,Shell #4,N,1,0,
+69,32631,102120,4512,0,Drawings Recieved from Supplier,N,1,0,<HTML><BODY></BODY></HTML>
+70,32632,102120,4512,0,Submission/Approval from CLient,N,1,0,
+71,32633,102120,4512,0,Roof Fabrication,N,1,0,
+72,32634,102120,4512,0,Shipping of Fabricated Material,N,1,0,
+73,32635,102120,4512,0,Delievery to Alzamil factory,N,1,0,
+74,32636,102120,4512,0,Delievey to MA'aden Site,N,1,0,
+75,32637,102224,4512,0,Soil Contractor Mobilization,N,1,0,
+76,32638,102224,4512,0,Start of work,N,1,0,
+77,32639,102224,4512,0,Finishing & Moving to 2nd Tank,N,1,0,
+78,32640,102231,4512,0,Recieving the Comments from client,N,1,0,<HTML><BODY></BODY></HTML>
+79,32641,102231,4512,0,Incooperating the Comments,N,1,0,<HTML><BODY></BODY></HTML>
+80,32642,102233,4512,100,Recieving the Comments from client,N,1,0,<HTML><BODY></BODY></HTML>
+81,32643,102233,4512,101,Incooperating the Comments,N,1,0,<HTML><BODY></BODY></HTML>
+82,32644,102234,4512,0,Receving Final Approval from client,N,1,0,
+83,32645,102234,4512,0,Preparing the Drawings to IFC,N,1,0,<HTML><BODY></BODY></HTML>
+84,32646,102239,4512,0,Purchase Portacabins Locally,N,1,0,<HTML><BODY></BODY></HTML>
+85,32647,102239,4512,0,Deliever to MPS,N,1,0,
+86,32648,102242,4512,0,Delievery of CP System to site,N,1,0,<HTML><BODY></BODY></HTML>
+87,32649,102242,4512,0,Installation after complete internal tank painting,N,1,0,
+88,32650,102248,4512,100,Delievery of Instrumentation to site,N,1,0,<HTML><BODY></BODY></HTML>
+89,32651,102248,4512,101,Installation,N,1,0,<HTML><BODY></BODY></HTML>
+90,32652,102285,4512,0,Shell #1,N,1,0,
+91,32653,102285,4512,1,Shell #2,N,1,0,
+92,32654,102285,4512,2,Shell #3,N,1,0,
+93,32655,102285,4512,3,Shell #4,N,1,0,
+94,32656,102289,4512,0,Drawings Recieved from Supplier,N,1,0,
+95,32657,102289,4512,0,Submission/Approval from CLient,N,1,0,
+96,32658,102289,4512,0,Roof Fabrication,N,1,0,
+97,32659,102289,4512,0,Shipping of Fabricated Material,N,1,0,
+98,32660,102289,4512,0,Delievery to Alzamil factory,N,1,0,
+99,32661,102289,4512,0,Delievey to MA'aden Site,N,1,0,
+100,32662,102488,4512,0,Soil Contractor Mobilization,N,1,0,
+101,32663,102488,4512,0,Start of work,N,1,0,
+102,32664,102488,4512,0,Finishing & Moving to 2nd Tank,N,1,0,
+103,32665,102490,4512,0,Recieving the Comments from client,N,1,0,<HTML><BODY></BODY></HTML>
+104,32666,102490,4512,0,Incooperating the Comments,N,1,0,<HTML><BODY></BODY></HTML>
+105,32667,102492,4512,100,Recieving the Comments from client,N,1,0,<HTML><BODY></BODY></HTML>
+106,32668,102492,4512,101,Incooperating the Comments,N,1,0,<HTML><BODY></BODY></HTML>
+107,32669,102493,4512,0,Receving Final Approval from client,N,1,0,
+108,32670,102493,4512,0,Preparing the Drawings to IFC,N,1,0,<HTML><BODY></BODY></HTML>
+109,32671,102503,4512,0,Purchase Portacabins Locally,N,1,0,<HTML><BODY></BODY></HTML>
+110,32672,102503,4512,0,Deliever to MPS,N,1,0,
+111,32673,102506,4512,0,Delievery of CP System to site,N,1,0,<HTML><BODY></BODY></HTML>
+112,32674,102506,4512,0,Installation after complete internal tank painting,N,1,0,
+113,32675,102514,4512,100,Delievery of Instrumentation to site,N,1,0,<HTML><BODY></BODY></HTML>
+114,32676,102514,4512,101,Installation,N,1,0,<HTML><BODY></BODY></HTML>
+115,32677,102551,4512,0,Shell #1,N,1,0,
+116,32678,102551,4512,1,Shell #2,N,1,0,
+117,32679,102551,4512,2,Shell #3,N,1,0,
+118,32680,102551,4512,3,Shell #4,N,1,0,
+119,32681,102555,4512,0,Drawings Recieved from Supplier,N,1,0,
+120,32682,102555,4512,0,Submission/Approval from CLient,N,1,0,
+121,32683,102555,4512,0,Roof Fabrication,N,1,0,
+122,32684,102555,4512,0,Shipping of Fabricated Material,N,1,0,
+123,32685,102555,4512,0,Delievery to Alzamil factory,N,1,0,
+124,32686,102555,4512,0,Delievey to MA'aden Site,N,1,0,
+125,32986,127717,6764,0,1st Group 5 girders,N,0.3,0,"﻿<HTML><HEAD><META NAME=""""GENERATOR"""" Content=""""Microsoft DHTML Editing Control""""><TITLE></TITLE></HEAD><BODY><P>&nbsp;</P></BODY></HTML>"
+126,32987,127717,6764,0,2nd Group 10 girders,N,0.7,0,
+127,32988,127811,6764,0,1st Group 5 girders,N,0.3,0,"﻿<HTML><HEAD><META NAME=""""GENERATOR"""" Content=""""Microsoft DHTML Editing Control""""><TITLE></TITLE></HEAD><BODY><P>&nbsp;</P></BODY></HTML>"
+128,32989,127811,6764,0,2nd Group 10 girders,N,0.7,0,
+129,32990,127923,6764,0,1st Group 5 girders,N,0.3,0,"﻿<HTML><HEAD><META NAME=""""GENERATOR"""" Content=""""Microsoft DHTML Editing Control""""><TITLE></TITLE></HEAD><BODY><P>&nbsp;</P></BODY></HTML>"
+130,32991,127923,6764,0,2nd Group 10 girders,N,0.7,0,
+131,32992,128112,6764,0,1st Group 5 girders,N,0.3,0,"﻿<HTML><HEAD><META NAME=""""GENERATOR"""" Content=""""Microsoft DHTML Editing Control""""><TITLE></TITLE></HEAD><BODY><P>&nbsp;</P></BODY></HTML>"
+132,32993,128112,6764,0,2nd Group 10 girders,N,0.7,0,
+133,32994,128173,6764,0,1st Group 5 girders,N,0.3,0,"﻿<HTML><HEAD><META NAME=""""GENERATOR"""" Content=""""Microsoft DHTML Editing Control""""><TITLE></TITLE></HEAD><BODY><P>&nbsp;</P></BODY></HTML>"
+134,32995,128173,6764,0,2nd Group 10 girders,N,0.7,0,
+135,32996,128186,6764,0,1st Group 5 girders,N,0.3,0,"﻿<HTML><HEAD><META NAME=""""GENERATOR"""" Content=""""Microsoft DHTML Editing Control""""><TITLE></TITLE></HEAD><BODY><P>&nbsp;</P></BODY></HTML>"
+136,32997,128186,6764,0,2nd Group 10 girders,N,0.7,0,

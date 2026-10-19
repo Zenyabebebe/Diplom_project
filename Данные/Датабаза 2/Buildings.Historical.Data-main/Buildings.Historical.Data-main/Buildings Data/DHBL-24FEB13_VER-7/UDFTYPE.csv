@@ -1,0 +1,9 @@
+,udf_type_id,table_name,udf_type_name,udf_type_label,logical_data_type,super_flag,indicator_expression,summary_indicator_expression
+0,384,RSRC,user_field_384,Peoplesoft ID,FT_TEXT,N,,
+1,863,TASK,user_field_863,EXECUTER,FT_TEXT,N,,
+2,1067,TASK,user_field_1067,CODE,FT_TEXT,N,,
+3,1417,TASK,user_field_1417,rem,FT_TEXT,N,,
+4,1465,TASK,user_field_1465,P3 ACTID,FT_TEXT,N,,
+5,1667,PROJECT,user_field_1667,Notes,FT_TEXT,N,,
+6,2280,TASK,user_field_2280,P6 ID (old),FT_TEXT,N,,
+7,2481,TASK,user_field_2481,NP61D,FT_TEXT,N,,

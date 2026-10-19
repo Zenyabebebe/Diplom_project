@@ -1,0 +1,4 @@
+,actv_code_type_id,actv_short_len,seq_num,actv_code_type,proj_id,wbs_id,actv_code_type_scope
+0,7264,3,0,Phase-2,,,AS_Global
+1,7269,3,100,Resp,,,AS_Global
+2,7270,3,200,Work Package,772,,AS_Project

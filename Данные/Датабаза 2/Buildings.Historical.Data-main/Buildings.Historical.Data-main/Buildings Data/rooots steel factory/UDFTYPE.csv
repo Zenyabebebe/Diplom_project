@@ -1,0 +1,3 @@
+,udf_type_id,table_name,udf_type_name,udf_type_label,logical_data_type,super_flag,indicator_expression,summary_indicator_expression
+0,66,TASK,user_number8,user_number8,FT_FLOAT_2_DECIMALS,N,,
+1,75,TASK,user_text1,user_text1,FT_TEXT,N,,

@@ -1,0 +1,4 @@
+,proj_catg_id,proj_catg_type_id,seq_num,proj_catg_short_name,parent_proj_catg_id,proj_catg_name,proj_catg_wt
+0,188,18,0,AMER,,Americas Division,0
+1,196,18,400,SWR,188,Southwest Region,0
+2,215,18,0,PHX,196,"Pheonix, AZ Office",0

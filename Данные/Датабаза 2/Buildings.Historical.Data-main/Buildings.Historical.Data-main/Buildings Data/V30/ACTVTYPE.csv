@@ -1,0 +1,9 @@
+,actv_code_type_id,actv_short_len,seq_num,actv_code_type,proj_id,wbs_id,actv_code_type_scope
+0,7353,2,19720,Sub Project,,,AS_Global
+1,7403,5,100,Vella No,1000,,AS_Project
+2,7404,2,0,Phase,1000,,AS_Project
+3,7405,4,300,Type Of Work,1000,,AS_Project
+4,7406,2,200,Vella Type,1000,,AS_Project
+5,7407,2,401,Periority,1000,,AS_Project
+6,7408,10,500, ,1000,,AS_Project
+7,7409,7,201,  ss,1000,,AS_Project

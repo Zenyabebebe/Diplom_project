@@ -1,0 +1,8 @@
+,rsrc_id,parent_rsrc_id,clndr_id,role_id,shift_id,ts_approve_user_id,user_id,pobs_id,guid,rsrc_seq_num,email_addr,employee_code,office_phone,other_phone,rsrc_name,rsrc_short_name,rsrc_title_name,def_qty_per_hr,cost_qty_type,ot_factor,active_flag,auto_compute_act_flag,def_cost_qty_link_flag,ot_flag,timesheet_flag,xfer_complete_day_cnt,xfer_notstart_day_cnt,curr_id,unit_id,rsrc_type,rsrc_notes,load_tasks_flag,level_flag,last_checksum
+0,3933,3932,3848,,,,,,dyJdN6IkF0uY/kfiybN1xQ,201,,,,,Reinforced Concrete Quantities,RCON,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,158,RT_Mat,,,,
+1,3934,3932,3848,,,,,,MN1uE48uAECKel3NOuh0rw,200,,,,,Borrowed Backfilling quantities,BCKB,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,158,RT_Mat,,,,
+2,3935,3932,3848,,,,,,uMwLTdNzokWxTxEdR8FoZg,300,,,,,Plain Concrete Quantities,PCON,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,158,RT_Mat,,,,
+3,3936,3932,597,,,,,,AETAepdbyUqVmMI/z92MIg,0,,,,,Excavation,EXCV,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,,RT_Mat,,,,
+4,3937,3932,3848,,,,,,gsmt7q2lLkKMNW1e2YCqBw,400,,,,,Hollow Core Slab,HCS,,,QT_Hour,,Y,Y,Y,N,N,60,60,1,107,RT_Mat,,,,
+5,3938,3932,3848,,,,,,KCwnzD70DE6zs+OggzAHRQ,500,,,,,PC For SOG,SOGPC,,,QT_Hour,,Y,Y,Y,N,N,60,60,1,158,RT_Mat,,,,
+6,3932,,597,,,,,,Ubw9YnxBUEKo9Na0w68RZw,4,,,,,Terminal 2 Resources,TR2,,1,QT_Hour,,Y,Y,Y,N,N,60,60,1,,RT_Labor,,,,

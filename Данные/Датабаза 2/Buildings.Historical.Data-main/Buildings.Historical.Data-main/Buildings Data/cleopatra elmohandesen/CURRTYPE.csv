@@ -1,0 +1,18 @@
+,curr_id,decimal_digit_cnt,curr_symbol,decimal_symbol,digit_group_symbol,pos_curr_fmt_type,neg_curr_fmt_type,curr_type,curr_short_name,group_digit_cnt,base_exch_rate
+0,1,0,LE,.,",",#1.1,(#1.1),Egyptian pound,EGP,3,1
+1,10,2,$,.,",",#1.1,(#1.1),Argentine Peso,ARS,3,3.077
+2,11,2,A$,.,",",#1.1,(#1.1),Australian Dollar,AUST,3,1.208
+3,13,2,R$,.,",",#1.1,(#1.1),Brazilian Real,BRL,3,2.014
+4,14,2,,.,",",#1.1,(#1.1),British Pound,U.K.,3,0.685097
+5,15,2,CA$,.,",",#1.1,(#1.1),Canadian Dollar,CAD,3,1.10573
+6,16,2,Y,.,",",#1.1,(#1.1),Chinese Yuan,CNY,3,7.694
+7,17,2,,.,",",#1.1,(#1.1),EURO,EUR,3,0.739088
+8,20,2,HK$,.,",",#1.1,(#1.1),Hong Kong Dollar,HKD,3,7.81967
+9,21,2,Rs,.,",",#1.1,(#1.1),Indian Rupee,INR,3,40.67
+10,23,2,,.,",",#1.1,(#1.1),Japanese Yen,JPY,3,120.167
+11,24,2,K,.,",",#1.1,(#1.1),Korean Won,KRW,3,924.743
+12,25,2,N$,.,",",#1.1,(#1.1),Mexican Peso,MXN,3,10.7938
+13,26,2,R,.,",",#1.1,(#1.1),Russian Rouble,RUB,3,25.8085
+14,28,2,Sk,.,",",#1.1,(#1.1),Swedish Krona,SEK,3,6.80579
+15,29,2,kr,.,",",#1.1,(#1.1),Swiss Franc,CHF,3,1.21864
+16,30,2,NIS,.,",",#1.1,(#1.1),Israel Shekel,ILS,3,3.96384

@@ -1,0 +1,19 @@
+,udf_type_id,table_name,udf_type_name,udf_type_label,logical_data_type,super_flag
+0,43,TASK,user_end_date1,zData Date,FT_END_DATE,N
+1,75,TASK,user_text1,Optimistic Duration,FT_TEXT,N
+2,76,TASK,user_text2,Most Likely Duration,FT_TEXT,N
+3,77,TASK,user_text3,Pessimistic Duration,FT_TEXT,N
+4,138,TASK,user_field_138,Sequence,FT_TEXT,N
+5,153,TASK,user_field_153,Weighting,FT_INT,N
+6,159,TASK,user_field_159,PCA Criticality Index,FT_FLOAT_2_DECIMALS,N
+7,160,TASK,user_field_160,PCA Duration Sensitivity,FT_FLOAT_2_DECIMALS,N
+8,169,TASK,user_field_169,zComments,FT_TEXT,N
+9,237,TASK,user_field_237,User Defined Field 1,FT_TEXT,N
+10,238,TASK,user_field_238,User Definer Field 2,FT_TEXT,N
+11,241,TASK,user_field_241,user_end_date1,FT_END_DATE,N
+12,245,TASK,user_field_245,user_integer1,FT_INT,N
+13,246,TASK,user_field_246,user_integer2,FT_INT,N
+14,249,TASK,user_field_249,Discipl1ne Gorgon,FT_TEXT,N
+15,250,TASK,user_field_250,user_text2,FT_TEXT,N
+16,470,TASK,user_field_470,user_number1,FT_FLOAT_2_DECIMALS,N
+17,471,TASK,user_field_471,user_text1,FT_TEXT,N

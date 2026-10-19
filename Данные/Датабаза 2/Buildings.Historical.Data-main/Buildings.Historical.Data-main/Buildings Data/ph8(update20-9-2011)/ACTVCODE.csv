@@ -1,0 +1,10 @@
+,actv_code_id,parent_actv_code_id,actv_code_type_id,actv_code_name,short_name,seq_num
+0,12735,,7300,civil works,civil,0
+1,12736,,7300,arch works,arch,100
+2,12737,,7300,metal works,metal,200
+3,12738,,7301,FOOTING LEVEL,FOOTING,0
+4,12739,,7301,GROUND LEVEL,GROUND,100
+5,12740,,7301,MEZZANINE LEVEL,MEZZ,200
+6,12741,,7301,ROOF LEVEL,ROOF,300
+7,12742,,7302,ZONE 1,PET-Z 1,0
+8,12743,,7302,ZONE 2,PET-Z 2,100

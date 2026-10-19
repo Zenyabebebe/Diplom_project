@@ -1,0 +1,3 @@
+,role_id,parent_role_id,seq_num,role_name,role_short_name,def_cost_qty_link_flag,cost_qty_type,role_descr,last_checksum
+0,373,356,3,Construction Roles,con,Y,QT_Hour,<HTML><BODY></BODY></HTML>,
+1,356,,2,KBR,KBR,Y,QT_Hour,<HTML><BODY></BODY></HTML>,

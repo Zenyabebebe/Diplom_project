@@ -1,0 +1,17 @@
+,actv_code_id,parent_actv_code_id,actv_code_type_id,actv_code_name,short_name,seq_num
+0,13502,,7292, ,rc,0
+1,13503,,7292, ,pc,100
+2,13504,,7292,,pnts,3
+3,13505,,7292,,floors,4
+4,13506,,7292,,blastin,5
+5,13507,,7292,   ,(New)-2,6
+6,13508,,7292,,brick,200
+7,13509,,7293,(New Code Value),(New),0
+8,13510,,7294, ,f.floor,0
+9,13511,,7294, ,5.floor,103
+10,13512,,7294, ,sec.flo,100
+11,13513,,7294, ,3.floor,101
+12,13514,,7294, ,4.floor,102
+13,13515,,7294, ,g.floor,203
+14,13516,,7292,,slab,1
+15,13517,,7292,,columns,2

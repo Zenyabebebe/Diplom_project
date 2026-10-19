@@ -1,0 +1,12 @@
+,actv_code_type_id,actv_short_len,seq_num,actv_code_type,proj_id,wbs_id,actv_code_type_scope
+0,7350,2,24290,Project ID,859,,AS_Project
+1,7351,2,24300,,859,,AS_Project
+2,7352,3,24310,,859,,AS_Project
+3,7353,2,24320,,859,,AS_Project
+4,7354,2,24294,,859,,AS_Project
+5,7355,5,24302,RESPONSIBILITY,859,,AS_Project
+6,7356,7,24303, ,859,,AS_Project
+7,7357,7,24293,  ,859,,AS_Project
+8,7358,7,24292,  -  --,859,,AS_Project
+9,7359,7,24301, ,859,,AS_Project
+10,7360,7,24291, ,859,,AS_Project

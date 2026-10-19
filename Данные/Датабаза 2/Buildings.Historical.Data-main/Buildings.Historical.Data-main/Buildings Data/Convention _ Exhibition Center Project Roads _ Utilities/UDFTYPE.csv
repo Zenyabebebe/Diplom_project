@@ -1,0 +1,5 @@
+,udf_type_id,table_name,udf_type_name,udf_type_label,logical_data_type,super_flag,indicator_expression,summary_indicator_expression
+0,39,RSRC,user_text1,user_text1,FT_TEXT,N,,
+1,42,RSRC,user_text4,user_text4,FT_TEXT,N,,
+2,75,TASK,user_text1,user_text1,FT_TEXT,N,,
+3,249,TASK,user_field_249,Flag,FT_STATICTYPE,N,,

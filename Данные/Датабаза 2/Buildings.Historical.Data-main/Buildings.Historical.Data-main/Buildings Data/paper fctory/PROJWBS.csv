@@ -1,0 +1,8 @@
+,wbs_id,proj_id,obs_id,seq_num,est_wt,proj_node_flag,sum_data_flag,status_code,wbs_short_name,wbs_name,phase_id,parent_wbs_id,ev_user_pct,ev_etc_user_value,orig_cost,indep_remain_total_cost,ann_dscnt_rate_pct,dscnt_period_type,indep_remain_work_qty,anticip_start_date,anticip_end_date,ev_compute_type,ev_etc_compute_type,guid,tmpl_guid,plan_open_state
+0,13932,2212,565,708,1,Y,N,WS_Open,GAMA-13,PAPER FACTORY,,10170,4,0.88,0.00,0.00,,,,,,EC_Cmp_pct,EE_Rem_hr,E8m5qDIqV0qRg+JXj+KIcw,,
+1,13933,2212,565,4,1,N,N,WS_Open,1,SIDE FENCE(TYPE-2),,13932,4,0.88,0.00,0.00,,,,,,EC_Cmp_pct,EE_Rem_hr,8UN7IwmsLE+3bYzTTvRYfw,,
+2,13934,2212,565,3,1,N,N,WS_Open,2,FRONT FENCE,,13932,4,0.88,0.00,0.00,,,,,,EC_Cmp_pct,EE_Rem_hr,7is5iZuLAkWjjplI0CVLaQ,,
+3,13935,2212,565,0,1,N,N,WS_Open,3,MILESTONES,,13932,4,0.88,0.00,0.00,,,,,,EC_Cmp_pct,EE_Rem_hr,hr59hYkEaU+bqveTXdpUfg,,
+4,13936,2212,565,5,1,N,N,WS_Open,4,SECURITY ROOM,,13932,4,0.88,0.00,0.00,,,,,,EC_Cmp_pct,EE_Rem_hr,BRF65QKBXEaqYTJSAySWZg,,
+5,13988,2212,565,2,1,N,N,WS_Open,6,SITE WORKS,,13932,4,0.88,0.00,0.00,,,,,,EC_Cmp_pct,EE_Rem_hr,UdRYZ8s+z0S3hW9NG3pwQQ,,
+6,13989,2212,565,1,1,N,N,WS_Open,5,MOBILIZATION,,13932,4,0.88,0.00,0.00,,,,,,EC_Cmp_pct,EE_Rem_hr,R+ll3CpFA0eVPopMOegKyg,,

@@ -1,0 +1,2 @@
+,risk_id,obs_id,proj_id,risk_type_id,rsrc_id,wbs_id,risk_name,impact_equip_qty,impact_work_qty,add_date,impact_date,impact_expense_cost,priority_type,status_code,prbly_pct,impact_mat_qty,risk_descr
+0,417,565,3714,,,19672,(New Risk),,,2012-05-29 00:00,2012-05-22 00:00,0.00,PT_Normal,RS_Closed,50,,<HTML><BODY></BODY></HTML>

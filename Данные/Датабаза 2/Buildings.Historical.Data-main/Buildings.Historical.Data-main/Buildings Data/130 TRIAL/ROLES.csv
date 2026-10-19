@@ -1,0 +1,3 @@
+,role_id,parent_role_id,seq_num,role_name,role_short_name,pobs_id,def_cost_qty_link_flag,cost_qty_type,role_descr,last_checksum
+0,516,365,300, -1,Engr.LP,,Y,QT_Hour,<HTML><BODY></BODY></HTML>,
+1,365,,504,Engineer,Engr,,Y,QT_Hour,<HTML><BODY></BODY></HTML>,

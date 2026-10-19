@@ -1,0 +1,13 @@
+,actv_code_type_id,actv_short_len,seq_num,actv_code_type,proj_id,wbs_id,actv_code_type_scope
+0,7331,3,54550, ,,,AS_Global
+1,7332,2,54560, ,,,AS_Global
+2,7333,2,54570, ,,,AS_Global
+3,7334,2,54580, ,,,AS_Global
+4,7335,1,54590,,,,AS_Global
+5,7336,1,54600,,,,AS_Global
+6,7337,1,54610, ,,,AS_Global
+7,7338,2,54620,,,,AS_Global
+8,7339,3,54630,Project ID,,,AS_Global
+9,7340,1,54640,Sub- Project,,,AS_Global
+10,7341,2,54650,Sub-Type of Work,,,AS_Global
+11,7342,2,54660,Type of Work,,,AS_Global

@@ -1,0 +1,14 @@
+,actv_code_id,parent_actv_code_id,actv_code_type_id,actv_code_name,short_name,seq_num
+0,12856,,7270,General,0,0
+1,12857,,7270,Jacket and piles,1,100
+2,12858,,7270,Decks,2,200
+3,12859,,7270,Topsides,3,300
+4,12860,,7270,Sealines,4,400
+5,12861,,7270,Wells,5,500
+6,12863,,7264,Management,0,0
+7,12864,,7264,Engineering,1,100
+8,12865,,7264,Procurement,3,200
+9,12866,,7264,Fabrication,4,300
+10,12870,,7269,GUPCO,GUP,0
+11,12871,,7269,Enppi,ENP,100
+12,12872,,7269,Petrojet,PTJ,200

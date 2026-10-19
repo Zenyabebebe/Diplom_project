@@ -1,0 +1,13 @@
+,actv_code_type_id,actv_short_len,seq_num,actv_code_type,proj_id,wbs_id,actv_code_type_scope
+0,7250,1,20310,Phase of Work,759,,AS_Project
+1,7251,2,20320,Building,759,,AS_Project
+2,7252,2,20330,Department,759,,AS_Project
+3,7253,3,20340,Trade,759,,AS_Project
+4,7254,1,20350,Elevations,759,,AS_Project
+5,7255,2,20360,Floor,759,,AS_Project
+6,7256,1,20370,Tender Milstones,759,,AS_Project
+7,7257,1,20380,new code,759,,AS_Project
+8,7258,2,20390,Zone/Building,759,,AS_Project
+9,7259,3,20400,Sub Trade,759,,AS_Project
+10,7260,3,20410,Type of Work,759,,AS_Project
+11,7261,2,20420,Level,759,,AS_Project
